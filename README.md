@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Toriqul Islam</h1>
 <h3 align="center">A passionate software developer from Bangladesh & Lives in Singapore</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thetoriqul&label=Profile%20views&color=0e75b6&style=flat" alt="thetoriqul" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thetoriqul" alt="thetoriqul" /></a> </p>
-
-- 🌱 I’m currently learning **Python, Java Script, React, HTML, CSS, PHP**
+- 🌱 I’m currently learning **Python, JavaScript, React, HTML, CSS, PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheToriqul](https://github.com/TheToriqul)
 
@@ -18,6 +14,10 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/thetoriqul/](https://www.linkedin.com/in/thetoriqul/)
 
 - ⚡ Fun fact **I love python**
+
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=thetoriqul&label=Profile%20views&color=0e75b6&style=flat" alt="thetoriqul" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thetoriqul" alt="thetoriqul" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
