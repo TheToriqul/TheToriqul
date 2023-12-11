@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/thetoriqul/](https://www.linkedin.com/in/thetoriqul/)
 
-- ⚡ Fun fact **I love python**
+- ⚡ Fun fact **I love Python**
 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=thetoriqul&label=Profile%20views&color=0e75b6&style=flat" alt="thetoriqul" /> </p>
 
