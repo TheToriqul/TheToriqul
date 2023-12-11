@@ -32,12 +32,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/thetoriqul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thetoriqul" height="30" width="40" /></a>
-<a href="https://twitter.com/thetoriqul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thetoriqul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thetoriqul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thetoriqul" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/thetoriqul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thetoriqul" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/thetoriqul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thetoriqul" height="30" width="40" /></a>
+<a href="https://dev.to/thetoriqul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thetoriqul" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22615166/md-toriqul-islam?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22615166/md-toriqul-islam?tab=profile" height="30" width="40" /></a>
 <a href="https://fb.com/thetoriqul.id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thetoriqul.id" height="30" width="40" /></a>
+<a href="https://twitter.com/thetoriqul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thetoriqul" height="30" width="40" /></a>
 <a href="https://instagram.com/thetoriqul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thetoriqul" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/thetoriqul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thetoriqul" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/thetoriqul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thetoriqul" height="30" width="40" /></a>
 </p>
