@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Toriqul</h1>
 <h3 align="center">DevOps Engineering Trainee @ PORIDHI.IO | Skilled in AWS, GCP, Azure, Docker, Kubernetes, Terraform, Python, Git & GitHub, CI/CD, Linux Aspiring | DevOps Engineer | Cloud Enthusiast | Continuous Learner</h3>
-<h4 align="left">Highly motivated and results-oriented DevOps Engineering Trainee at Poridhi.io, seeking a full-time Onsite Engineer opportunity to leverage my technical expertise and passion for automation. I possess a strong multi-cloud skillset, proficient in AWS, GCP, and Azure, along with containerization technologies (Docker, Kubernetes), infrastructure as code (Terraform), scripting (Python), version control (Git & GitHub), CI/CD pipelines, Linux administration, and networking & IT operations.</h4>
+<h4 align="justify">Highly motivated and results-oriented DevOps Engineering Trainee at Poridhi.io, seeking a full-time Onsite Engineer opportunity to leverage my technical expertise and passion for automation. I possess a strong multi-cloud skillset, proficient in AWS, GCP, and Azure, along with containerization technologies (Docker, Kubernetes), infrastructure as code (Terraform), scripting (Python), version control (Git & GitHub), CI/CD pipelines, Linux administration, and networking & IT operations.</h4>
 
 - 🌱 I’m currently engaged in a **DevOps Engineering Career Track** course.
 
