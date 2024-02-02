@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Toriqul</h1>
-<h3 align="center">Dedicated IT Professional with a Passion for the IT Industry | IT Support Specialist | Skilled in Python, JavaScript, HTML, CSS, PHP, AWS, GCP, System Administration, Network Administration, Operating Systems & IT Operations</h3>
+<h3 align="center">DevOps Engineering Trainee @ PORIDHI.IO | Skilled in AWS, GCP, Azure, Docker, Kubernetes, Terraform, Python, Git & GitHub, CI/CD, Linux Aspiring | DevOps Engineer | Cloud Enthusiast | Continuous Learner</h3>
 
 - 🌱 I’m currently engaged in a **DevOps Engineering Career Track** course.
 
-- 🌱 I’m currently learning **Docker, Kubernetes, Terraform, Golang, Java, Azure, CI/CD, Security Monitoring & Best Practice.**
+- 🌱 I’m currently learning **Docker, Kubernetes, Terraform, Golang, Azure, CI/CD, Security Monitoring & Best Practice.**
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
