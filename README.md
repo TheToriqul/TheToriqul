@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently engaged in a **DevOps Engineering Career Track** course.
 
-- 🌱 I’m currently learning **Docker, Kubernetes, Terraform, Golang, Azure, CI/CD, Security Monitoring & Best Practice.**
+- 🌱 I’m currently learning **Docker, Kubernetes, Terraform, Golang, Azure, CI/CD, Security Monitoring & Best Practices.**
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
