@@ -27,13 +27,11 @@ Here are some of my key projects that you might find interesting:
 
 - **[Full-Stack-Application-Deployment-in-GCP](https://github.com/TheToriqul/Full-Stack-Application-Deployment-in-GCP) / [AWS-EC2](https://github.com/TheToriqul/Full-Stack-Application-Deployment-in-AWS-EC2) / [AKS](https://github.com/TheToriqul/Full-Stack-Application-Deployment-in-AKS):** These repositories demonstrate proficiency in deploying full-stack applications in different cloud environments (GCP, AWS EC2, AKS).
 
-- **[Deployment-a-Full-Stack-Application-Infra-using-Terraform-in-AWS](https://github.com/TheToriqul/Deployment-a-Full-Stack-Application-Infra-Using-Terraform-in-AWS) / [GKE](https://github.com/TheToriqul/Deploy-a-Full-Stack-Application-in-GKE) / [AWS-Fargate](https://github.com/TheToriqul/Deploy-a-Full-Stack-Application-in-AWS-Fargate) / [GCP](https://github.com/TheToriqul/Deploy-a-Full-Stack-Application-Infra-Using-Terraform-in-GCP) / [Deploy-a-Full-Stack-Application-Infra-Using-Terraform-in-Azure](https://github.com/TheToriqul/Deploy-a-Full-Stack-Application-Infra-Using-Terraform-in-Azure):** These repositories involve deploying full-stack applications using infrastructure as code (Terraform) in various cloud environments.
+- **[Deployment-a-Full-Stack-Application-Infra-using-Terraform-in-AWS](https://github.com/TheToriqul/Deployment-a-Full-Stack-Application-Infra-Using-Terraform-in-AWS) / [GKE](https://github.com/TheToriqul/Deploy-a-Full-Stack-Application-in-GKE) / [AWS-Fargate](https://github.com/TheToriqul/Deploy-a-Full-Stack-Application-in-AWS-Fargate) / [GCP](https://github.com/TheToriqul/Deploy-a-Full-Stack-Application-Infra-Using-Terraform-in-GCP) / [Azure](https://github.com/TheToriqul/Deploy-a-Full-Stack-Application-Infra-Using-Terraform-in-Azure):** These repositories involve deploying full-stack applications using infrastructure as code (Terraform) in various cloud environments.
 
 - **[DB-Backup-Retrieval-Across-Multiple-Servers](https://github.com/TheToriqul/DB-Backup-Retrieval-Across-Multiple-Servers):** This project demonstrates skills in implementing automated backup and retrieval processes across multiple servers, showcasing expertise in data management and disaster recovery.
 
 - **[Advanced-Python-Scripting](https://github.com/TheToriqul/Advanced-Python-Scripting):** This project involves advanced Python scripting for various automation tasks, showcasing expertise in scripting and automation.
-
-- **[TheToriqul-Website-Deploy](https://github.com/TheToriqul/TheToriqul-Website-Deploy):** This repository likely involves deployment practices, showcasing skills in infrastructure setup, configuration management, and continuous deployment.
 
 Feel free to explore my [repositories](https://github.com/TheToriqul?tab=repositories) for more projects!
 
