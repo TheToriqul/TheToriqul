@@ -3,7 +3,7 @@
 
 ## About Me
 
-- 💼 **Current Position:** DevOps Engineering Trainee at PORIDHI.IO
+- 💼 **Current Position:** DevOps Engineering Trainee at PORIDHI.IO (DevOps Career Track 2)
 - 🎓 **Education:** BSc. in Computer Science & Engineering (In Progress)
 - 🌱 **Learning:** Currently engaged in a DevOps Engineering Career Track course, focusing on cloud computing, automation, CI/CD, and more. I'm also learning Docker, Kubernetes, Terraform, Golang, Azure, CI/CD, Security Monitoring & Best Practices.
 - 👯 **Collaboration:** I'm looking to collaborate on innovative open-source projects that leverage cutting-edge technologies to solve real-world problems and make a positive impact on society. Whether it's developing scalable solutions, contributing to open-source initiatives, or exploring emerging trends, I'm eager to collaborate with like-minded individuals and teams to create something truly remarkable.
