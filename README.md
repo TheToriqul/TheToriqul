@@ -9,6 +9,12 @@
 - 👯 **Collaboration:** I'm looking to collaborate on innovative open-source projects that leverage cutting-edge technologies to solve real-world problems and make a positive impact on society. Whether it's developing scalable solutions, contributing to open-source initiatives, or exploring emerging trends, I'm eager to collaborate with like-minded individuals and teams to create something truly remarkable.
 - 🤝 **Seeking Help:** I’m looking for help with advancing my skills and expertise in the field of DevOps. Specifically, I'm seeking opportunities where I can contribute to impactful projects, collaborate with talented individuals, and further develop my proficiency in cloud technologies, automation, and infrastructure management. Any guidance, mentorship, or advice from experienced professionals in the industry would be greatly appreciated as I continue to grow and excel in my career journey.
 
+## Skills 🛠️ and Expertise 💪
+- **⚡ DevOps & Cloud Computing:** DevOps, AWS, GCP (Google Cloud Platform), Azure, AKS (Azure Kubernetes Service), GKE (Google Kubernetes Engine), Terraform, Kubernetes, CI/CD (Continuous Integration/Continuous Deployment), Docker, GitHub Action, Jenkins
+- **🌐 Programming & Development:** Python, Git, HTML, CSS, JavaScript
+- **⚙️ Infrastructure & Operations:** Nginx, Linux, DNS, Troubleshooting, SQL Server, IT Operations, Operating Systems, Encryption, Debugging
+- **🛠️ Additional Skills & Tools:** Machine Learning, Agile Methodologies, Cybersecurity, AutoCAD, Illustrator, Photoshop, PowerPoint, SEO (Search Engine Optimization)
+
 ## Projects
 
 Here are some of my key projects that you might find interesting:
