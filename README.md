@@ -62,7 +62,7 @@ Feel free to ask me about anything related to Python scripting, cloud infrastruc
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thetoriqul" alt="thetoriqul" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetoriqul&layout=compact&theme=vue-dark&show_icons=true" alt="thetoriqul" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetoriqul&layout=compact&langs_count=8&theme=vue-dark&show_icons=true" alt="thetoriqul" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thetoriqul&theme=vue-dark&show_icons=true" alt="thetoriqul" /></p>
 
