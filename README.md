@@ -67,12 +67,12 @@ Feel free to ask me about anything related to Python scripting, cloud infrastruc
 
 <p align="left">
 <a href="https://github.com/thetoriqul">
-  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thetoriqul&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" alt="thetoriqul"/>
-  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thetoriqul&layout=compact&langs_count=8&theme=vue-dark&count_private=true" alt="thetoriqul"/>
+  <img height="180em" width="438em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thetoriqul&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" alt="thetoriqul"/>
+  <img height="180em" width="438em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thetoriqul&layout=compact&langs_count=8&theme=vue-dark&count_private=true" alt="thetoriqul"/>
 </a>
 </p>
 
-<p href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=thetoriqul&theme=vue-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=805" alt="GitHub Streak" /></p>
+<p href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=thetoriqul&theme=vue-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=881" alt="GitHub Streak" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
