@@ -11,7 +11,7 @@
 
 ## Skills 🛠️ and Expertise 💪
 - **⚡ DevOps & Cloud Computing:** DevOps, AWS, GCP (Google Cloud Platform), Azure, AKS (Azure Kubernetes Service), GKE (Google Kubernetes Engine), Terraform, Kubernetes, CI/CD (Continuous Integration/Continuous Deployment), Docker, GitHub Action, Jenkins
-- **🌐 Programming & Development:** Python, Git, HTML, CSS, JavaScript
+- **🌐 Programming & Development:** Python, Git, HTML, CSS, JavaScript, React
 - **⚙️ Infrastructure & Operations:** Nginx, Linux, DNS, Troubleshooting, SQL Server, IT Operations, Operating Systems, Encryption, Debugging
 - **🛠️ Additional Skills & Tools:** Machine Learning, Agile Methodologies, Cybersecurity, AutoCAD, Illustrator, Photoshop, PowerPoint, SEO (Search Engine Optimization)
 
