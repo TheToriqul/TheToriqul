@@ -72,7 +72,7 @@ Feel free to ask me about anything related to Python scripting, cloud infrastruc
 </a>
 </p>
 
-<p href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=thetoriqul&theme=vue-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=800" alt="GitHub Streak" /></p>
+<p href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=thetoriqul&theme=vue-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=805" alt="GitHub Streak" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
