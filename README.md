@@ -67,8 +67,8 @@ Feel free to ask me about anything related to Python scripting, cloud infrastruc
 
 <p align="left">
 <a href="https://github.com/thetoriqul">
-  <img height="180em" width="435em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thetoriqul&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" alt="thetoriqul"/>
-  <img height="180em" width="435em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thetoriqul&layout=compact&langs_count=8&theme=vue-dark&count_private=true" alt="thetoriqul"/>
+  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thetoriqul&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" alt="thetoriqul"/>
+  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thetoriqul&layout=compact&langs_count=8&theme=vue-dark&count_private=true" alt="thetoriqul"/>
 </a>
 </p>
 
