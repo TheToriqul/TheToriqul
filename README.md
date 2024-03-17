@@ -26,9 +26,9 @@ Here are some of my key projects that you might find interesting:
 
 - **[Cloud-Migration-and-Management](https://github.com/TheToriqul/Cloud-Migration-and-Management):** This project highlights skills in cloud platforms (AWS, GCP, Azure), infrastructure as code (Terraform), and migration strategies.
 
-- **[Write-a-CI-CD-Pipeline-for-Infra-Deployment-Using-Terraform-GitHub-Action](https://github.com/TheToriqul/Write-a-CI-CD-Pipeline-for-Infra-Deployment-Using-Terraform-GitHub-Action):** This repository demonstrates expertise in setting up CI/CD pipelines for infrastructure deployment using Terraform and GitHub Actions.
+- **[CI-CD-Pipeline-for-Infra-Deployment-Using-Terraform-GitHub-Action](https://github.com/TheToriqul/Write-a-CI-CD-Pipeline-for-Infra-Deployment-Using-Terraform-GitHub-Action):** This repository demonstrates expertise in setting up CI/CD pipelines for infrastructure deployment using Terraform and GitHub Actions.
 
-- **[Write-a-CI-CD-Pipeline-for-Application-Deployment-Using-GitHub-Actions](https://github.com/TheToriqul/Write-a-CI-CD-Pipeline-for-Application-Deployment-Using-GitHub-Actions):** This project focuses on CI/CD pipelines, specifically for application deployment using GitHub Actions.
+- **[CI-CD-Pipeline-for-Application-Deployment-Using-GitHub-Actions](https://github.com/TheToriqul/Write-a-CI-CD-Pipeline-for-Application-Deployment-Using-GitHub-Actions):** This project focuses on CI/CD pipelines, specifically for application deployment using GitHub Actions.
 
 - **[Layer-4-7-Load-Balancer-Deployment](https://github.com/TheToriqul/Layer-4-7-Load-Balancer-Deployment):** This project showcases skills in networking and load balancing, essential for infrastructure scalability and high availability.
 
