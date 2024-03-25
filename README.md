@@ -15,10 +15,10 @@
 - 🤝 **Seeking Help:** I’m looking for help with advancing my skills and expertise in the field of DevOps. Specifically, I'm seeking opportunities where I can contribute to impactful projects, collaborate with talented individuals, and further develop my proficiency in cloud technologies, automation, and infrastructure management. Any guidance, mentorship, or advice from experienced professionals in the industry would be greatly appreciated as I continue to grow and excel in my career journey.
 
 ## Skills 🛠️ and Expertise 💪
-- **⚡ DevOps & Cloud Computing:** DevOps, AWS, GCP (Google Cloud Platform), Azure, AKS (Azure Kubernetes Service), GKE (Google Kubernetes Engine), Terraform, Kubernetes, CI/CD (Continuous Integration/Continuous Deployment), Docker, GitHub Action, Jenkins
-- **🌐 Programming & Development:** Python, Git, HTML, CSS, JavaScript, React
-- **⚙️ Infrastructure & Operations:** Nginx, Linux, DNS, Troubleshooting, SQL Server, IT Operations, Operating Systems, Encryption, Debugging
-- **🛠️ Additional Skills & Tools:** Machine Learning, Agile Methodologies, Cybersecurity, AutoCAD, Illustrator, Photoshop, PowerPoint, SEO (Search Engine Optimization)
+- **⚡ DevOps & Cloud Computing:** DevOps | AWS | GCP | Azure | AKS | GKE | Terraform | Kubernetes | CI/CD | Docker | GitHub Action | Jenkins
+- **🌐 Programming & Development:** Python | HTML | CSS | JavaScript | React | GO | Git | Bash |Shell
+- **⚙️ Infrastructure & Operations:** Nginx | DBMS | DNS | Troubleshooting | Debugging | Encryption | IT Operations | OS (Linux, Mac, Windows)
+- **🛠️ Additional Skills & Tools:** Agile Methodologies | AutoCAD | Illustrator | Photoshop | PowerPoint | SEO
 
 ## Projects
 
