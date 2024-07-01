@@ -68,8 +68,8 @@ Feel free to ask me about anything related to Python scripting, cloud infrastruc
 
 <p align="left">
 <a href="https://github.com/thetoriqul">
-         <img height="180em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thetoriqul&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" alt="thetoriqul"/>
-         <img height="180em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thetoriqul&layout=compact&langs_count=8&theme=vue-dark&count_private=true" alt="thetoriqul"/>
+         <img height="180em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thetoriqul&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" alt="thetoriqul commits and details count"/>
+         <img height="180em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thetoriqul&layout=compact&langs_count=8&theme=vue-dark&count_private=true" alt="thetoriqul languge count"/>
 </a>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=thetoriqul&theme=vue-dark&card_width=845" alt="GitHub Streak" /></a>
 </p>
