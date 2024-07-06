@@ -4,7 +4,7 @@
          height="45"
          width="45" /> I'm Mohammad Toriqul Islam</h1>
 
-<h3 align="justify">Welcome to my GitHub profile! I'm a highly motivated DevOps Engineering Trainee at PORIDHI.IO with a passion for leveraging technology to streamline development workflows and optimize system performance. Skilled in AWS, GCP, Azure, Docker, Kubernetes, Terraform, Python, Git & GitHub, CI/CD, and Linux, I'm committed to continuous learning and professional growth in the field of DevOps Engineering.</h3>
+<h3 align="justify">Welcome to my GitHub profile! I'm a highly motivated DevOps Engineer at PORIDHI.IO with a passion for leveraging technology to streamline development workflows and optimize system performance. Skilled in AWS, GCP, Azure, Docker, Kubernetes, Terraform, Python, Git & GitHub, CI/CD, and Linux, I'm committed to continuous learning and professional growth in the field of DevOps Engineering.</h3>
 
 ## About Me
 
