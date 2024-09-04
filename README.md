@@ -149,7 +149,7 @@ Feel free to ask me about anything related to Python scripting, cloud infrastruc
 
 ---
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&random=false&width=835&lines=Thanks+for+visiting++my+Github%E2%9C%8C%EF%B8%8F;Shoot+me+a+message+on+LinkenIn!;I'm+always+down+to+collaborate+%3A);Let's+connect+and+learn+together!" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&random=false&width=835&lines=Thanks+for+visiting++my+Github%E2%9C%8C%EF%B8%8F;Shoot+me+a+message+on+LinkenIn!;I'm+always+down+to+collaborate+%3A);Let's+connect+and+learn+together!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
