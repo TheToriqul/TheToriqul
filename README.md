@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=thetoriqul&label=Profile%20views&color=0e75b6&style=flat" alt="thetoriqul" />
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Mohammad+Toriqul+Islam+✌️;I'm+a+DevOps+Engineer;" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hi+There!+👋;+I'm+Mohammad+Toriqul+Islam+✌️;I'm+a+DevOps+Engineer;" />
 </h1>
 
 <h3 align="justify">Welcome to my GitHub profile! I'm a highly motivated DevOps Engineer with a passion for leveraging technology to streamline development workflows and optimize system performance. Skilled in AWS, GCP, Azure, Docker, Kubernetes, Terraform, Python, Git & GitHub, CI/CD, and Linux, I'm committed to continuous learning and professional growth in the field of DevOps Engineering.</h3>
@@ -140,6 +140,11 @@ Feel free to ask me about anything related to Python scripting, cloud infrastruc
          width="835" 
       />
    </a>
+</p>
+<p align="left">
+  <a href="https://github.com/TheToriqul">
+    <img width="835" src="https://github-readme-activity-graph.vercel.app/graph?username=TheToriqul&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&hide_border=true&custom_title=TheToriqul's%20GitHub%20Activity%20Graph&font_size=16" alt="TheToriqul's Activity Graph" />
+  </a>
 </p>
 
 ---
