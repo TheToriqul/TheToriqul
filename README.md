@@ -1,8 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=thetoriqul&label=Profile%20views&color=0e75b6&style=flat" alt="thetoriqul" />
-<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Mohammad Toriqul Islam</h1>
+<h1 align="center">
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Mohammad+Toriqul+Islam+✌️;I'm+a+DevOps+Engineer;" />
+</h1>
 
 <h3 align="justify">Welcome to my GitHub profile! I'm a highly motivated DevOps Engineer with a passion for leveraging technology to streamline development workflows and optimize system performance. Skilled in AWS, GCP, Azure, Docker, Kubernetes, Terraform, Python, Git & GitHub, CI/CD, and Linux, I'm committed to continuous learning and professional growth in the field of DevOps Engineering.</h3>
 
@@ -15,10 +14,63 @@
 - 🤝 **Seeking Help:** I’m looking for help with advancing my skills and expertise in the field of DevOps. Specifically, I'm seeking opportunities where I can contribute to impactful projects, collaborate with talented individuals, and further develop my proficiency in cloud technologies, automation, and infrastructure management. Any guidance, mentorship, or advice from experienced professionals in the industry would be greatly appreciated as I continue to grow and excel in my career journey.
 
 ## Skills 🛠️ and Expertise 💪
-- **⚡ DevOps & Cloud Computing:** DevOps | AWS | GCP | Azure | AKS | GKE | Terraform | Kubernetes | CI/CD | Docker | GitHub Action | Jenkins
-- **🌐 Programming & Development:** Python | HTML | CSS | JavaScript | React | GO | Git | Bash |Shell
-- **⚙️ Infrastructure & Operations:** Nginx | DBMS | DNS | Troubleshooting | Debugging | Encryption | IT Operations | OS (Linux, Mac, Windows)
-- **🛠️ Additional Skills & Tools:** Agile Methodologies | AutoCAD | Illustrator | Photoshop | PowerPoint | SEO
+
+### ⚡ DevOps & Cloud Computing
+![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AKS](https://img.shields.io/badge/AKS-0080FF?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GKE](https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-5849be?style=for-the-badge&logo=firebase&logoColor=#ffca28)
+
+### 🌐 Software Development & Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-3A33D1?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ⚙️ Infrastructure & Operations
+![Git](https://img.shields.io/badge/Git-3A33D1?style=for-the-badge&logo=git&logoColor=F05032)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-FFA116?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Mac](https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=shell&logoColor=black)
+
+### 🛠️ Additional Skills & Tools
+![Figma](https://img.shields.io/badge/Figma-4EA94B?style=for-the-badge&logo=figma&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-FFA116?style=for-the-badge&logo=instapaper&logoColor=white)
+![Debugging](https://img.shields.io/badge/Debugging-FFA116?style=for-the-badge&logo=codereview&logoColor=white)
+![Encryption](https://img.shields.io/badge/Encryption-FFA116?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
+![IT Operations](https://img.shields.io/badge/IT_Operations-FFA116?style=for-the-badge&logo=itchio&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=searchengineland&logoColor=white)
 
 ## Projects
 
@@ -60,34 +112,51 @@ I regularly share insights and updates on LinkedIn. Check out my articles [here]
 
 Feel free to ask me about anything related to Python scripting, cloud infrastructure management (AWS, GCP, Azure), Docker containerization, Kubernetes orchestration, CI/CD pipelines, Linux administration, or IT operations! Whether you're looking for advice, troubleshooting tips, or just want to chat about technology, I'm here to help. Let's geek out together!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </p> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-
 #####
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thetoriqul&theme=vue-dark&include_all_commits=true&count_private=true" alt="thetoriqul" /></a> </p>
 
 <p align="left">
 <a href="https://github.com/thetoriqul">
-         <img height="190em" width="480em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thetoriqul&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" alt="thetoriqul commits and details count"/>
-         <img height="190em" width="350em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thetoriqul&layout=compact&langs_count=8&theme=vue-dark&count_private=true" alt="thetoriqul languge count"/>
+         <img height="190em" width="480em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thetoriqul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="thetoriqul commits and details count"/>
+         <img height="190em" width="350em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thetoriqul&layout=compact&langs_count=8&theme=tokyonight&count_private=true" alt="thetoriqul languge count"/>
 </a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=thetoriqul&theme=vue-dark&card_width=835" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=thetoriqul&theme=tokyonight&card_width=835" alt="GitHub Streak" /></a>
 </p>
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thetoriqul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thetoriqul" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/thetoriqul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thetoriqul" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/thetoriqul" target="blank"><img align="center" src="https://codechefgcet.github.io/assets/codechef.png" alt="thetoriqul" height="30" width="40" /></a>
-<a href="https://dev.to/thetoriqul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thetoriqul" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22615166/md-toriqul-islam?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22615166/md-toriqul-islam?tab=profile" height="30" width="40" /></a>
-<a href="https://fb.com/thetoriqul.id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thetoriqul.id" height="30" width="40" /></a>
-<a href="https://twitter.com/thetoriqul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thetoriqul" height="30" width="40" /></a>
-<a href="https://instagram.com/thetoriqul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thetoriqul" height="30" width="40" /></a>
+   <a href="https://github.com/TheToriqul">
+      <img 
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheToriqul&theme=tokyonight" 
+         alt="Md Toriqul Islam's GitHub Contribution" 
+         width="835" 
+      />
+   </a>
 </p>
-
 
 ---
+<h1 align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&random=false&width=835&lines=Thanks+for+visiting++my+Github%E2%9C%8C%EF%B8%8F;Shoot+me+a+message+on+LinkenIn!;I'm+always+down+to+collaborate+%3A);Let's+connect+and+learn+together!" alt="Typing SVG" />
+</h1>
 
-Thank you for visiting my profile! Feel free to reach out for collaboration opportunities, questions about my projects, or just to say hello. Let's connect and learn together!
+<p align="center">
+   <a href="mailto:toriqul.int@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="TheToriqul | Contact via email"/>
+   </a>
+   <a href="https://www.linkedin.com/in/TheToriqul" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="TheToriqul | Network and view professional experience"/>
+   </a>
+   <a href="https://thetoriqul.com/" target="blank">
+      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="TheToriqul | Explore professional portfolio and projects" />
+   </a>
+   <a href="https://discord.gg/TheToriqul" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="TheToriqul | Join the community for tech discussions"/>
+   </a>
+   <a href="https://dev.to/TheToriqul" target="_blank">
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="TheToriqul | Read technical articles and tutorials" />
+   </a>
+   <a href="https://www.facebook.com/TheToriqul.ID" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="TheToriqul | Connect on Facebook for personal updates and insights" />
+   </a>
+   <a href="https://x.com/TheToriqul_X" target="_blank">
+      <img src="https://img.shields.io/badge/X (Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="TheToriqul | Follow for industry insights and updates" />
+   </a>
+</p>
