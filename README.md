@@ -204,7 +204,7 @@ Whether you're looking for advice, troubleshooting tips, or just want to chat ab
 </p>
 
 <p align="center">
-  <img height="200em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thetoriqul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="thetoriqul commits and details count"/>
+  <img height="250em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thetoriqul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="thetoriqul commits and details count"/>
   <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thetoriqul&layout=compact&langs_count=8&theme=tokyonight&count_private=true" alt="thetoriqul language count"/>
 </p>
 
