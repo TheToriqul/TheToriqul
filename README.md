@@ -226,7 +226,7 @@ Whether you're looking for advice, troubleshooting tips, or just want to chat ab
 </h1>
 
 <p align="center">
-   <a href="mailto:toriqul.int@gmail.com" target="_blank">
+   <a href="mailto:toriqul.int@gmail.com" target="toriqul.int@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="TheToriqul | Contact via email"/>
    </a>
    <a href="https://www.linkedin.com/in/TheToriqul" target="_blank">
