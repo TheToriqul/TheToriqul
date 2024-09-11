@@ -16,7 +16,7 @@
    <a href="https://thetoriqul.com/" target="blank">
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="TheToriqul | Explore professional portfolio and projects" />
    </a>
-   <a href="https://discord.gg/TheToriqul" target="_blank">
+   <a href="https://discord.gg/tNe9VqUp" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="TheToriqul | Join the community for tech discussions"/>
    </a>
    <a href="https://dev.to/TheToriqul" target="_blank">
@@ -235,7 +235,7 @@ Whether you're looking for advice, troubleshooting tips, or just want to chat ab
    <a href="https://thetoriqul.com/" target="blank">
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="TheToriqul | Explore professional portfolio and projects" />
    </a>
-   <a href="https://discord.gg/TheToriqul" target="_blank">
+   <a href="https://discord.gg/tNe9VqUp" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="TheToriqul | Join the community for tech discussions"/>
    </a>
    <a href="https://dev.to/TheToriqul" target="_blank">
