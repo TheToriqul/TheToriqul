@@ -104,58 +104,17 @@
   - **Challenge:** Designing a scalable multi-cloud architecture
   - **Outcome:** Successfully migrated infrastructure with 99.9% uptime and 30% cost reduction
 
-- **[CI-CD-Pipeline-for-Infra-Deployment-Using-Terraform-GitHub-Action](https://github.com/TheToriqul/Write-a-CI-CD-Pipeline-for-Infra-Deployment-Using-Terraform-GitHub-Action):**
-
-  - **Technologies:** Terraform, GitHub Actions, AWS
-  - **Challenge:** Automating infrastructure deployment across multiple environments
-  - **Outcome:** Reduced deployment time by 70% and eliminated manual configuration errors
-
-- **[CI-CD-Pipeline-for-Application-Deployment-Using-GitHub-Actions](https://github.com/TheToriqul/Write-a-CI-CD-Pipeline-for-Application-Deployment-Using-GitHub-Actions):**
-
-  - **Technologies:** GitHub Actions, Docker, Kubernetes
-  - **Challenge:** Implementing a robust CI/CD pipeline for a microservices architecture
-  - **Outcome:** Achieved zero-downtime deployments and improved release frequency by 200%
-
 - **[Layer-4-7-Load-Balancer-Deployment](https://github.com/TheToriqul/Layer-4-7-Load-Balancer-Deployment):**
 
   - **Technologies:** NGINX, HAProxy, AWS ELB
   - **Challenge:** Optimizing traffic distribution for high-load applications
   - **Outcome:** Improved application response times by 40% and increased system reliability
 
-- **[GKE-Network-Debugging](https://github.com/TheToriqul/GKE-Network-Debugging):**
-
-  - **Technologies:** Google Kubernetes Engine, tcpdump, Wireshark
-  - **Challenge:** Troubleshooting complex networking issues in a Kubernetes cluster
-  - **Outcome:** Resolved critical network bottlenecks, improving overall cluster performance by 25%
-
 - **[Full-Stack-Application-Deployment-with-Docker](https://github.com/TheToriqul/Full-Stack-Application-Deployment-with-Docker):**
 
   - **Technologies:** Docker, Node.js, React, MongoDB
   - **Challenge:** Containerizing a full-stack application for consistent deployments
   - **Outcome:** Reduced environment setup time from hours to minutes, improving developer productivity
-
-- **[Full-Stack-Application-Deployment-in-GCP](https://github.com/TheToriqul/Full-Stack-Application-Deployment-in-GCP) / [AWS-EC2](https://github.com/TheToriqul/Full-Stack-Application-Deployment-in-AWS-EC2) / [AKS](https://github.com/TheToriqul/Full-Stack-Application-Deployment-in-AKS):**
-
-  - **Technologies:** GCP, AWS, Azure, Kubernetes
-  - **Challenge:** Implementing a cloud-agnostic deployment strategy
-  - **Outcome:** Achieved 99.99% uptime across multiple cloud providers, enhancing disaster recovery capabilities
-
-- **[Deployment-a-Full-Stack-Application-Infra-using-Terraform-in-AWS](https://github.com/TheToriqul/Deployment-a-Full-Stack-Application-Infra-Using-Terraform-in-AWS) / [GKE](https://github.com/TheToriqul/Deploy-a-Full-Stack-Application-in-GKE) / [AWS-Fargate](https://github.com/TheToriqul/Deploy-a-Full-Stack-Application-in-AWS-Fargate) / [GCP](https://github.com/TheToriqul/Deploy-a-Full-Stack-Application-Infra-Using-Terraform-in-GCP) / [Azure](https://github.com/TheToriqul/Deploy-a-Full-Stack-Application-Infra-Using-Terraform-in-Azure):**
-
-  - **Technologies:** Terraform, AWS, GCP, Azure, Kubernetes, Fargate
-  - **Challenge:** Implementing infrastructure as code across multiple cloud platforms
-  - **Outcome:** Reduced infrastructure provisioning time by 80% and improved consistency across environments
-
-- **[DB-Backup-Retrieval-Across-Multiple-Servers](https://github.com/TheToriqul/DB-Backup-Retrieval-Across-Multiple-Servers):**
-
-  - **Technologies:** Python, SQL, AWS S3, Cron
-  - **Challenge:** Designing a robust, automated backup system for distributed databases
-  - **Outcome:** Achieved 100% backup success rate and reduced data recovery time from hours to minutes
-
-- **[Advanced-Python-Scripting](https://github.com/TheToriqul/Advanced-Python-Scripting):**
-  - **Technologies:** Python, APIs, Data Processing Libraries
-  - **Challenge:** Automating complex workflows and data analysis tasks
-  - **Outcome:** Saved over 20 hours per week in manual tasks across various departments
 
 Feel free to explore my [repositories](https://github.com/TheToriqul?tab=repositories) for more projects!
 
