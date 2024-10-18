@@ -3,7 +3,9 @@
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hi+There!+👋;+I'm+Mohammad+Toriqul+Islam+✌️;I'm+a+DevOps+Engineer;" />
 </h1>
 
-<h3 align="justify">Welcome to my GitHub profile! I'm a highly motivated DevOps Engineer with a passion for leveraging technology to streamline development workflows and optimize system performance. Skilled in AWS, GCP, Azure, Docker, Kubernetes, Terraform, Python, Git & GitHub, CI/CD, and Linux, I'm committed to continuous learning and professional growth in the field of DevOps Engineering.</h3>
+<h3 align="justify">Welcome to my GitHub profile! I'm a DevOps Engineer with a strong focus on optimizing development workflows and enhancing system performance through cloud technologies and automation. My expertise spans AWS, GCP, Azure, Docker, Kubernetes, Terraform, Python, CI/CD pipelines, and Linux.</h3>
+
+<h3 align="justify">I began my journey with a Diploma in Shipbuilding Engineering, later transitioning into software and cloud engineering through self-learning. Currently, I'm pursuing a Bachelor of Computer Science (Hons), majoring in Cloud Computing, and remain committed to continuous learning and growth in the DevOps field</h3>
 
 ## 
 <p align="center">
