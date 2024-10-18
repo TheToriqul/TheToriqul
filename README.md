@@ -33,7 +33,7 @@
 ## 👨‍💻 About Me
 
 - 💼 **Current Position:** DevOps Engineer
-- 🎓 **Education:** BSc. in Computer Science & Engineering (In Progress)
+- 🎓 **Education:** Bachelor of Computer Science (Honours) - Major in Cloud Computing (Currently Pursuing)
 <details>
 <summary>Explore more details about me:</summary>
 
