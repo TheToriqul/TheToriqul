@@ -30,7 +30,7 @@
    <a href="https://x.com/TheToriqul_X" target="_blank">
       <img src="https://img.shields.io/badge/X (Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="TheToriqul | Follow for industry insights and updates" />
    </a>
-</p>
+</p> 
 
 ## 👨‍💻 About Me
 
