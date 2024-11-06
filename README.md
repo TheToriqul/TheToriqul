@@ -5,7 +5,7 @@
 
 <h3 align="justify">Welcome to my GitHub profile! I'm a DevOps Engineer with a strong focus on optimizing development workflows and enhancing system performance through cloud technologies and automation. My expertise spans AWS, GCP, Azure, Docker, Kubernetes, Terraform, Python, CI/CD pipelines, and Linux.</h3>
 
-<h3 align="justify">I began my career as a Shipbuilding Engineer, having earned a Diploma in Engineering Shipbuilding Technology. Driven by a passion for technology, I transitioned into software and cloud engineering as a self-taught developer. Currently, I'm pursuing a Bachelor of Computer Science (Hons) with a major in Cloud Computing, and I'm committed to continuous growth and learning in the DevOps field.</h3>
+<h3 align="justify">I began my career as a Shipbuilding Engineer, having earned a Diploma in Engineering Shipbuilding Technology. Driven by a passion for technology, I transitioned into software and cloud engineering as a self-taught developer. Currently, I'm pursuing a Bachelor of Computer Science (Hons) with a major in Cloud Computing, and I'm committed to continuous growth and learning in the DevOps field.</h3> 
 
 ## 
 <p align="center">
