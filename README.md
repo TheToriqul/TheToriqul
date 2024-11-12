@@ -45,7 +45,7 @@
 
 </details>
 
-## [Skills 🛠️ and Expertise 💪](skills.md)
+## [🛠️ Skills and Expertise 💪](skills.md)
 
 ### ⚡ DevOps, Cloud & Infrastructure
 ![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
