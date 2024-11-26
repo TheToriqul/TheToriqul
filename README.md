@@ -196,6 +196,10 @@ Whether you're looking for advice, troubleshooting tips, or just want to chat ab
       <img src="https://img.shields.io/badge/X (Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="TheToriqul | Follow for industry insights and updates" />
    </a>
 </p>
+<p align="center">
+   <a href="https://info.flagcounter.com/1LxA"><img src="https://s01.flagcounter.com/count2/1LxA/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_32/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+   <p align="center">The counting of visitors in this flag section began on November 27, 2024.</p>
+</p>
 
 
 
