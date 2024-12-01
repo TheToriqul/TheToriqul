@@ -148,7 +148,7 @@ Whether you're looking for advice, troubleshooting tips, or just want to chat ab
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thetoriqul&theme=vue-dark&row=1&margin-w=15&margin-h=15" alt="thetoriqul" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thetoriqul&theme=vue-dark&row=1&margin-w=15&margin-h=15&count_private=true" alt="thetoriqul" />
 </p>
 
 <p align="center">
