@@ -148,24 +148,24 @@ Whether you're looking for advice, troubleshooting tips, or just want to chat ab
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thetoriqul&theme=vue-dark&row=1&margin-w=15&margin-h=15&count_private=true" alt="thetoriqul" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thetoriqul&theme=vue-dark&row=1&margin-w=15&margin-h=15&count_private=true&include_all_commits=true" alt="TheToriqul GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thetoriqul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="thetoriqul commits and details count"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thetoriqul&layout=compact&langs_count=8&theme=tokyonight&count_private=true" alt="thetoriqul language count"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thetoriqul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="thetoriqul commits and details states"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thetoriqul&layout=compact&langs_count=8&theme=tokyonight&count_private=true&hide_border=true" alt="thetoriqul most used language states"/>
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=thetoriqul&theme=tokyonight" alt="GitHub Streak" />
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=thetoriqul&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheToriqul&theme=tokyonight" alt="Md Toriqul Islam's GitHub Contribution" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheToriqul&theme=tokyonight&count_private=true&include_all_commits=true" alt="Md Toriqul Islam's GitHub Contribution" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheToriqul&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&hide_border=true&custom_title=TheToriqul's%20GitHub%20Activity%20Graph" alt="TheToriqul's Activity Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheToriqul&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&hide_border=true&count_private=true&include_all_commits=true&custom_title=TheToriqul's%20GitHub%20Activity%20Graph" alt="TheToriqul's Activity Graph" />
 </p>
 
 ---
