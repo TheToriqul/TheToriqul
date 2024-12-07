@@ -157,11 +157,32 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [![Blog](https://img.shields.io/badge/📝_Medium-Building_a_Production_Ready_K3s_Cluster-2ea44f)](url)
-- [![Blog](https://img.shields.io/badge/📝_Medium-Establishing_Cross_VPC_Networking-2ea44f)](url)
-- [![Blog](https://img.shields.io/badge/📝_Medium-DNS_The_Unsung_Hero-2ea44f)](url)
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
+  <table>
+    <tr>
+      <th>Medium Posts</th>
+      <th>DEV Posts</th>
+    </tr>
+    <!-- medium_posts:START -->
+    <tr>
+      <td align="left">
+        <a href="#">
+          <img src="https://img.shields.io/badge/Medium-Loading...-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <!-- medium_posts:END -->
+    <!-- dev_posts:START -->
+    <tr>
+      <td align="left">
+        <a href="#">
+          <img src="https://img.shields.io/badge/DEV-Loading...-12100E?style=for-the-badge&logo=dev.to&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <!-- dev_posts:END -->
+  </table>
+</div>
 
 ## 📈 GitHub Analytics
 
