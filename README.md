@@ -160,16 +160,14 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" style="background-color: #0d1117; padding: 20px; border-radius: 6px;">
         <h3>✍️ My Recent Articles</h3>
         <!-- BLOG-POST-LIST:START -->
-[![Blog Post](https://img.shields.io/badge/📝_Building a Production-Ready K3s Cluster on AWS: A Terraform Journey-2F81F7?style=for-the-badge)](https://medium.com/@TheToriqul/building-a-production-ready-k3s-cluster-on-aws-a-terraform-journey-b9bbfd9a0761?source=rss-d5e0512cedd4------2)[![Blog Post](https://img.shields.io/badge/📝_Establishing Cross VPC Networking with Amazon EC2 Instances-2F81F7?style=for-the-badge)](https://medium.com/@TheToriqul/cross-vpc-connection-c83fefd4d021?source=rss-d5e0512cedd4------2)[![Blog Post](https://img.shields.io/badge/📝_DNS: The Unsung Hero of the Internet-2F81F7?style=for-the-badge)](https://medium.com/@TheToriqul/dns-the-unsung-hero-of-the-internet-f43c45f08e3f?source=rss-d5e0512cedd4------2)
 <!-- BLOG-POST-LIST:END -->
-        <p align="right">
-          <a href="https://medium.com/@thetoriqul">
-            <img src="https://img.shields.io/badge/Read_More_on_Medium-2F81F7?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-          </a>
-        </p>
+        <br>
+        <a href="https://medium.com/@thetoriqul">
+          <img src="https://img.shields.io/badge/READ_MORE_ON_MEDIUM-2F81F7?style=for-the-badge&logo=medium&logoColor=white" alt="Read More on Medium"/>
+        </a>
       </td>
     </tr>
   </table>
