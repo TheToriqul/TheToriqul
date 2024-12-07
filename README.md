@@ -158,6 +158,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [${title}](${url}) - ${date}- [${title}](${url}) - ${date}- [${title}](${url}) - ${date}
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 GitHub Analytics
