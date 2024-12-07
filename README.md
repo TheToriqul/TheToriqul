@@ -84,7 +84,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
   <table>
     <tr>
       <td align="left" width="50%">
-        <h3>🚢 Shipbuilding Engineering (2019-2021)</h3>
+        <h3>🚢 Shipbuilding Engineering (2018-2021)</h3>
         <p>Graduated with Diploma in Engineering Shipbuilding Technology. First exposure to automation through shipyard manufacturing systems.</p>
         <div>
           <img src="https://img.shields.io/badge/Expertise-Marine_Engineering-2F81F7?style=flat&logo=anchor"/>
@@ -117,7 +117,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
     <tr>
       <td align="left" width="50%">
         <h3>☁️ DevOps & Cloud Engineering (2022-Present)</h3>
-        <p>Successfully transitioned to full-time DevOps role. Led enterprise cloud migration projects with 60% faster deployment times.</p>
+        <p>Successfully transitioned to full-time DevOps role after completing the course. Led enterprise cloud migration projects with 60% faster deployment times.</p>
         <div>
           <img src="https://img.shields.io/badge/Role-DevOps_Engineer-2F81F7?style=flat&logo=ansible"/>
           <img src="https://img.shields.io/badge/Impact-60%25_Faster-00C853?style=flat"/>
