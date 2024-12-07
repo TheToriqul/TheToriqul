@@ -10,30 +10,77 @@ def get_medium_posts():
     feed = feedparser.parse(feed_url)
     
     posts = []
-    for entry in feed.entries[:6]:  # Get 6 latest posts
-        title = entry.title
-        url = entry.link.split('?')[0]
-        date = parsedate_to_datetime(entry.published).strftime('%b %d, %Y')
+    # Process posts in pairs
+    for i in range(0, min(len(feed.entries), 6), 2):
+        post1 = feed.entries[i]
+        # Get description and clean HTML tags
+        desc1 = re.sub('<[^<]+?>', '', post1.description)
+        desc1 = desc1[:150] + '...' if len(desc1) > 150 else desc1
         
-        # Get the first 150 characters of the description/content
-        description = re.sub('<[^<]+?>', '', entry.description)
-        description = description[:150] + '...' if len(description) > 150 else description
+        # Create first post card
+        card1 = {
+            'title': post1.title,
+            'url': post1.link.split('?')[0],
+            'date': parsedate_to_datetime(post1.published).strftime('%b %d, %Y'),
+            'description': desc1
+        }
         
-        # Create card HTML
-        post_html = f'''<div class="blog-card" style="width: calc(50% - 20px); min-width: 300px; background-color: #1a1b27; border-radius: 12px; border: 1px solid #2F81F7; overflow: hidden; margin: 10px;">
-            <div style="padding: 20px;">
-                <div style="display: flex; align-items: center; margin-bottom: 12px;">
-                    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📝" width="24" height="24" style="margin-right: 10px;">
-                    <span style="color: #2F81F7; font-size: 14px;">{date}</span>
-                </div>
-                <h3 style="color: #ffffff; margin: 0 0 12px 0; font-size: 16px; line-height: 1.4;">
-                    <a href="{url}" style="color: inherit; text-decoration: none; font-weight: 600;">{title}</a>
+        # Get second post if available
+        card2 = None
+        if i + 1 < len(feed.entries):
+            post2 = feed.entries[i + 1]
+            desc2 = re.sub('<[^<]+?>', '', post2.description)
+            desc2 = desc2[:150] + '...' if len(desc2) > 150 else desc2
+            card2 = {
+                'title': post2.title,
+                'url': post2.link.split('?')[0],
+                'date': parsedate_to_datetime(post2.published).strftime('%b %d, %Y'),
+                'description': desc2
+            }
+        
+        # Create row HTML with two cards
+        row_html = f'''
+        <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+            <div style="flex: 1; background-color: #1a1b27; border: 1px solid #2F81F7; border-radius: 8px; padding: 24px; min-width: 300px;">
+                <h3 style="margin: 0 0 16px 0;">
+                    <a href="{card1['url']}" style="color: #2F81F7; text-decoration: none; font-size: 24px;">{card1['title']}</a>
                 </h3>
-                <p style="color: #a0aec0; font-size: 14px; line-height: 1.6; margin: 0 0 15px 0;">{description}</p>
-                <a href="{url}" style="display: inline-block; padding: 8px 16px; background-color: #2F81F7; color: white; text-decoration: none; border-radius: 6px; font-size: 14px; transition: background-color 0.3s;">Read More</a>
-            </div>
-        </div>'''
-        posts.append(post_html)
+                <p style="color: #a0aec0; margin: 16px 0;">{card1['description']}</p>
+                <ul style="list-style: none; padding: 0; margin: 16px 0;">
+                    <li style="margin-bottom: 8px; color: #ffffff;">
+                        <span style="display: inline-block; background-color: #2F81F7; padding: 4px 8px; border-radius: 4px; margin-right: 8px;">
+                            Published
+                        </span>
+                        {card1['date']}
+                    </li>
+                </ul>
+                <div style="margin-top: 16px;">
+                    <a href="{card1['url']}" style="display: inline-block; padding: 8px 16px; background-color: #2F81F7; color: white; text-decoration: none; border-radius: 4px;">Read Article</a>
+                </div>
+            </div>'''
+        
+        if card2:
+            row_html += f'''
+            <div style="flex: 1; background-color: #1a1b27; border: 1px solid #2F81F7; border-radius: 8px; padding: 24px; min-width: 300px;">
+                <h3 style="margin: 0 0 16px 0;">
+                    <a href="{card2['url']}" style="color: #2F81F7; text-decoration: none; font-size: 24px;">{card2['title']}</a>
+                </h3>
+                <p style="color: #a0aec0; margin: 16px 0;">{card2['description']}</p>
+                <ul style="list-style: none; padding: 0; margin: 16px 0;">
+                    <li style="margin-bottom: 8px; color: #ffffff;">
+                        <span style="display: inline-block; background-color: #2F81F7; padding: 4px 8px; border-radius: 4px; margin-right: 8px;">
+                            Published
+                        </span>
+                        {card2['date']}
+                    </li>
+                </ul>
+                <div style="margin-top: 16px;">
+                    <a href="{card2['url']}" style="display: inline-block; padding: 8px 16px; background-color: #2F81F7; color: white; text-decoration: none; border-radius: 4px;">Read Article</a>
+                </div>
+            </div>'''
+            
+        row_html += '</div>'
+        posts.append(row_html)
     
     return '\n'.join(posts)
 
@@ -50,9 +97,7 @@ def update_readme():
             <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="📚" width="32" height="32">
             Latest Articles
         </h2>
-        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 0 auto;">
-            {blog_posts}
-        </div>
+        {blog_posts}
         <div style="margin-top: 30px;">
             <a href="https://medium.com/@TheToriqul" style="display: inline-block; padding: 12px 24px; background-color: #2F81F7; color: white; text-decoration: none; border-radius: 8px; font-weight: 600; transition: background-color 0.3s;">
                 View All Articles on Medium
