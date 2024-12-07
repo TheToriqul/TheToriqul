@@ -1,7 +1,6 @@
 name: Latest Blog Posts Workflow
 on:
   schedule:
-    # Runs every 6 hours
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
@@ -24,4 +23,3 @@ jobs:
           output_only_file_name: "README.md"
           retry_count: 3
           sort_by: published
-          tag_post_pre_newline: true
