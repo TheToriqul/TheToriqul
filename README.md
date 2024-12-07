@@ -1,4 +1,7 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=thetoriqul&label=Profile%20views&color=0e75b6&style=flat" alt="thetoriqul" />
+<div>
+  <img align="right" src="https://komarev.com/ghpvc/?username=thetoriqul&label=Profile%20views&color=0e75b6&style=flat" alt="thetoriqul" />
+</div>
+</br>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there%2C+I%E2%80%99m+Toriqul+%F0%9F%91%8B;DevOps+%26+Cloud+Solutions+Specialist;Crafting+Scalable+Cloud+Infrastructures" alt="Typing SVG" />
 
