@@ -163,6 +163,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
       <td align="center" style="background-color: #0d1117; padding: 20px; border-radius: 6px;">
         <h3>✍️ My Recent Articles</h3>
         <!-- BLOG-POST-LIST:START -->
+[![📝 Building a Production-Ready K3s Cluster on AWS: A Terraform Journey](https://img.shields.io/badge/📝_Building a Production-Ready K3s Cluster on AWS: A Terraform Journey-2F81F7?style=for-the-badge&logoColor=white)](https://medium.com/@TheToriqul/building-a-production-ready-k3s-cluster-on-aws-a-terraform-journey-b9bbfd9a0761?source=rss-d5e0512cedd4------2)[![📝 Establishing Cross VPC Networking with Amazon EC2 Instances](https://img.shields.io/badge/📝_Establishing Cross VPC Networking with Amazon EC2 Instances-2F81F7?style=for-the-badge&logoColor=white)](https://medium.com/@TheToriqul/cross-vpc-connection-c83fefd4d021?source=rss-d5e0512cedd4------2)[![📝 DNS: The Unsung Hero of the Internet](https://img.shields.io/badge/📝_DNS: The Unsung Hero of the Internet-2F81F7?style=for-the-badge&logoColor=white)](https://medium.com/@TheToriqul/dns-the-unsung-hero-of-the-internet-f43c45f08e3f?source=rss-d5e0512cedd4------2)
 <!-- BLOG-POST-LIST:END -->
         <br>
         <a href="https://medium.com/@thetoriqul">
