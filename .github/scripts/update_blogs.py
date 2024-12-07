@@ -10,49 +10,53 @@ def get_medium_posts():
     feed = feedparser.parse(feed_url)
     
     posts = []
-    # Get up to 6 posts
-    entries = feed.entries[:6]
+    # Get up to 2 posts (for simplicity and matching the project layout)
+    entries = feed.entries[:2]
     
-    # Create HTML for each post
-    for entry in entries:
-        # Clean description
-        description = re.sub('<[^<]+?>', '', entry.description)
-        description = description[:150] + '...' if len(description) > 150 else description
-        
-        # Create post HTML
-        post_html = f'''<div style="flex: 1; min-width: 300px; background-color: #1a1b27; border: 1px solid #2F81F7; border-radius: 8px; padding: 24px;">
-            <h3 style="margin: 0 0 16px 0;">
-                <a href="{entry.link.split('?')[0]}" style="color: #2F81F7; text-decoration: none; font-size: 24px;">{entry.title}</a>
-            </h3>
-            <p style="color: #a0aec0; margin: 16px 0;">{description}</p>
-            <ul style="list-style: none; padding: 0; margin: 16px 0;">
-                <li style="margin-bottom: 8px; color: #ffffff;">
-                    <span style="display: inline-block; background-color: #2F81F7; padding: 4px 8px; border-radius: 4px; margin-right: 8px;">
-                        Published
-                    </span>
-                    {parsedate_to_datetime(entry.published).strftime('%b %d, %Y')}
-                </li>
-            </ul>
-            <div style="margin-top: 16px;">
-                <a href="{entry.link.split('?')[0]}" style="display: inline-block; padding: 8px 16px; background-color: #2F81F7; color: white; text-decoration: none; border-radius: 4px;">Read Article</a>
-            </div>
-        </div>'''
-        posts.append(post_html)
+    # Create both cards in a single container
+    posts_html = f'''
+    <div align="center">
+        <table>
+            <tr>
+                <td width="50%">
+                    <h3>
+                        <a href="{entries[0].link.split('?')[0]}" style="color: #2F81F7; text-decoration: none;">
+                            {entries[0].title}
+                        </a>
+                    </h3>
+                    <p>{entries[0].description[:100].replace('<p>', '').replace('</p>', '')}...</p>
+                    <ul>
+                        <li>Published on Medium</li>
+                        <li>Technical Article</li>
+                        <li>Cloud & DevOps</li>
+                    </ul>
+                    <p>
+                        <img src="https://img.shields.io/badge/Status-Published-00C853?style=flat&logo=checkmarx"/>
+                        <img src="https://img.shields.io/badge/Date-{parsedate_to_datetime(entries[0].published).strftime('%b_%Y')}-00C853?style=flat"/>
+                    </p>
+                </td>
+                <td width="50%">
+                    <h3>
+                        <a href="{entries[1].link.split('?')[0]}" style="color: #2F81F7; text-decoration: none;">
+                            {entries[1].title}
+                        </a>
+                    </h3>
+                    <p>{entries[1].description[:100].replace('<p>', '').replace('</p>', '')}...</p>
+                    <ul>
+                        <li>Published on Medium</li>
+                        <li>Technical Article</li>
+                        <li>Cloud & DevOps</li>
+                    </ul>
+                    <p>
+                        <img src="https://img.shields.io/badge/Status-Published-00C853?style=flat&logo=checkmarx"/>
+                        <img src="https://img.shields.io/badge/Date-{parsedate_to_datetime(entries[1].published).strftime('%b_%Y')}-00C853?style=flat"/>
+                    </p>
+                </td>
+            </tr>
+        </table>
+    </div>'''
     
-    # Ensure even number of posts for grid layout
-    if len(posts) % 2 != 0:
-        posts.append('''<div style="flex: 1; min-width: 300px;"></div>''')  # Empty div for grid alignment
-    
-    # Create pairs of posts
-    pairs = []
-    for i in range(0, len(posts), 2):
-        pair = f'''<div style="display: flex; gap: 20px; width: 100%;">
-            {posts[i]}
-            {posts[i+1] if i+1 < len(posts) else ''}
-        </div>'''
-        pairs.append(pair)
-    
-    return '\n'.join(pairs)
+    return posts_html
 
 def update_readme():
     with open('README.md', 'r', encoding='utf-8') as file:
@@ -61,17 +65,12 @@ def update_readme():
     blog_posts = get_medium_posts()
     
     new_section = f'''<!-- BLOG-POST-LIST:START -->
-<div align="center" style="margin: 40px auto; max-width: 1200px; padding: 0 20px;">
-    <h2 style="color: #2F81F7; margin-bottom: 30px; display: flex; align-items: center; justify-content: center; gap: 15px;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="📚" width="32" height="32">
-        Latest Articles
-    </h2>
-    <div style="display: flex; flex-direction: column; gap: 20px; width: 100%;">
-        {blog_posts}
-    </div>
-    <div style="margin-top: 30px;">
-        <a href="https://medium.com/@TheToriqul" style="display: inline-block; padding: 12px 24px; background-color: #2F81F7; color: white; text-decoration: none; border-radius: 8px; font-weight: 600; transition: background-color 0.3s;">
-            View All Articles on Medium
+<div align="center">
+    <h2>📝 Latest Blog Posts</h2>
+    {blog_posts}
+    <div style="margin-top: 20px;">
+        <a href="https://medium.com/@TheToriqul">
+            <img src="https://img.shields.io/badge/READ_MORE_ON_MEDIUM-2F81F7?style=for-the-badge&logo=medium&logoColor=white" alt="Read More on Medium"/>
         </a>
     </div>
 </div>
