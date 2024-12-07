@@ -9,52 +9,66 @@ def get_medium_posts():
     feed_url = f'https://medium.com/feed/{username}'
     feed = feedparser.parse(feed_url)
     
-    posts = []
     # Get up to 2 posts (for simplicity and matching the project layout)
     entries = feed.entries[:2]
     
-    # Create both cards in a single container
-    posts_html = f'''
-    <div align="center">
-        <table>
-            <tr>
-                <td width="50%">
-                    <h3>
-                        <a href="{entries[0].link.split('?')[0]}" style="color: #2F81F7; text-decoration: none;">
-                            {entries[0].title}
-                        </a>
-                    </h3>
-                    <p>{entries[0].description[:100].replace('<p>', '').replace('</p>', '')}...</p>
-                    <ul>
-                        <li>Published on Medium</li>
-                        <li>Technical Article</li>
-                        <li>Cloud & DevOps</li>
-                    </ul>
-                    <p>
-                        <img src="https://img.shields.io/badge/Status-Published-00C853?style=flat&logo=checkmarx"/>
-                        <img src="https://img.shields.io/badge/Date-{parsedate_to_datetime(entries[0].published).strftime('%b_%Y')}-00C853?style=flat"/>
-                    </p>
-                </td>
-                <td width="50%">
-                    <h3>
-                        <a href="{entries[1].link.split('?')[0]}" style="color: #2F81F7; text-decoration: none;">
-                            {entries[1].title}
-                        </a>
-                    </h3>
-                    <p>{entries[1].description[:100].replace('<p>', '').replace('</p>', '')}...</p>
-                    <ul>
-                        <li>Published on Medium</li>
-                        <li>Technical Article</li>
-                        <li>Cloud & DevOps</li>
-                    </ul>
-                    <p>
-                        <img src="https://img.shields.io/badge/Status-Published-00C853?style=flat&logo=checkmarx"/>
-                        <img src="https://img.shields.io/badge/Date-{parsedate_to_datetime(entries[1].published).strftime('%b_%Y')}-00C853?style=flat"/>
-                    </p>
-                </td>
-            </tr>
-        </table>
-    </div>'''
+    # Create GitHub-flavored markdown table
+    posts_html = '''
+## 📝 Latest Blog Posts
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>{title1}</h3>
+        <p align="justify">{desc1}</p>
+        <ul>
+          <li>Technical Deep Dive</li>
+          <li>Cloud Infrastructure</li>
+          <li>Step-by-step Guide</li>
+        </ul>
+        <p>
+          <img src="https://img.shields.io/badge/Published-{date1}-00C853?style=flat&logo=medium"/>
+          <img src="https://img.shields.io/badge/Read_Time-10_min-2F81F7?style=flat"/>
+        </p>
+        <a href="{url1}">
+          <img src="https://img.shields.io/badge/Read_Article-2F81F7?style=for-the-badge&logo=medium"/>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <h3>{title2}</h3>
+        <p align="justify">{desc2}</p>
+        <ul>
+          <li>Technical Deep Dive</li>
+          <li>Cloud Infrastructure</li>
+          <li>Best Practices</li>
+        </ul>
+        <p>
+          <img src="https://img.shields.io/badge/Published-{date2}-00C853?style=flat&logo=medium"/>
+          <img src="https://img.shields.io/badge/Read_Time-8_min-2F81F7?style=flat"/>
+        </p>
+        <a href="{url2}">
+          <img src="https://img.shields.io/badge/Read_Article-2F81F7?style=for-the-badge&logo=medium"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <p align="center">
+    <a href="https://medium.com/@TheToriqul">
+      <img src="https://img.shields.io/badge/MORE_ON_MEDIUM-2F81F7?style=for-the-badge&logo=medium&logoColor=white"/>
+    </a>
+  </p>
+</div>'''.format(
+        title1=entries[0].title,
+        desc1=re.sub('<[^<]+?>', '', entries[0].description)[:150] + '...',
+        url1=entries[0].link.split('?')[0],
+        date1=parsedate_to_datetime(entries[0].published).strftime('%b_%Y'),
+        title2=entries[1].title,
+        desc2=re.sub('<[^<]+?>', '', entries[1].description)[:150] + '...',
+        url2=entries[1].link.split('?')[0],
+        date2=parsedate_to_datetime(entries[1].published).strftime('%b_%Y')
+    )
     
     return posts_html
 
@@ -65,15 +79,7 @@ def update_readme():
     blog_posts = get_medium_posts()
     
     new_section = f'''<!-- BLOG-POST-LIST:START -->
-<div align="center">
-    <h2>📝 Latest Blog Posts</h2>
-    {blog_posts}
-    <div style="margin-top: 20px;">
-        <a href="https://medium.com/@TheToriqul">
-            <img src="https://img.shields.io/badge/READ_MORE_ON_MEDIUM-2F81F7?style=for-the-badge&logo=medium&logoColor=white" alt="Read More on Medium"/>
-        </a>
-    </div>
-</div>
+{blog_posts}
 <!-- BLOG-POST-LIST:END -->'''
     
     pattern = r"<!-- BLOG-POST-LIST:START -->.*?<!-- BLOG-POST-LIST:END -->"
