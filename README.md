@@ -157,26 +157,8 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
 
 ## 📝 Latest Blog Posts
 
-<div align="center">
-<table>
-<tr>
-<th>Medium Posts</th>
-<th>DEV Posts</th>
-</tr>
-<tr>
-<td valign="top">
-
-<!-- medium_posts:START -->- <a href='https://medium.com/@TheToriqul/building-a-production-ready-k3s-cluster-on-aws-a-terraform-journey-b9bbfd9a0761?source=rss-d5e0512cedd4------2'><img alt='Medium' src='https://img.shields.io/badge/Medium-${title// /_}-black?style=flat&logo=medium'/></a>- <a href='https://medium.com/@TheToriqul/cross-vpc-connection-c83fefd4d021?source=rss-d5e0512cedd4------2'><img alt='Medium' src='https://img.shields.io/badge/Medium-${title// /_}-black?style=flat&logo=medium'/></a>- <a href='https://medium.com/@TheToriqul/dns-the-unsung-hero-of-the-internet-f43c45f08e3f?source=rss-d5e0512cedd4------2'><img alt='Medium' src='https://img.shields.io/badge/Medium-${title// /_}-black?style=flat&logo=medium'/></a><!-- medium_posts:END -->
-
-</td>
-<td valign="top">
-
-<!-- dev_posts:START -->- <a href='https://dev.to/thetoriqul/test-4785'><img alt='DEV' src='https://img.shields.io/badge/DEV-${title// /_}-black?style=flat&logo=dev.to'/></a><!-- dev_posts:END -->
-
-</td>
-</tr>
-</table>
-</div>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 📈 GitHub Analytics
 
