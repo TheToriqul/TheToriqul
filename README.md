@@ -7,9 +7,15 @@
 Welcome to my GitHub profile! I specialize in transforming complex infrastructure challenges into elegant, automated solutions. With a passion for cloud-native architecture and infrastructure automation, I focus on building resilient systems that drive innovation and operational excellence. My commitment lies in crafting scalable solutions that empower organizations to achieve their digital transformation goals.
 </h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/thetoriqul)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=about.me)](https://thetoriqul.com)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:toriqul.int@gmail.com)
+  <a href="https://linkedin.com/in/thetoriqul">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://thetoriqul.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=about.me" alt="Portfolio"/>
+  </a>
+  <a href="mailto:toriqul.int@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
 
 </div>
 
