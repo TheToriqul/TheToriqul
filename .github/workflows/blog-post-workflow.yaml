@@ -19,13 +19,39 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@thetoriqul"
           max_post_count: 5
-          template: "- <a href='$url'><img src='https://img.shields.io/badge/Medium-${title}-12100E?style=for-the-badge&logo=medium&logoColor=white'/></a>"
-          comment_tag_name: "medium_posts"  # This must match exactly with the tags in README
+          template: "- <a href='$url'><img alt='Medium' src='https://img.shields.io/badge/Medium-${title// /_}-black?style=flat&logo=medium'/></a>"
+          comment_tag_name: "medium_posts"
+          transform: |
+            {
+              "title": {
+                "replace": {
+                  " ": "_",
+                  ":": "",
+                  "?": "",
+                  "|": "",
+                  "/": "_",
+                  "\\": "_"
+                }
+              }
+            }
           
       - name: Update DEV posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://dev.to/feed/thetoriqul"
           max_post_count: 5
-          template: "- <a href='$url'><img src='https://img.shields.io/badge/DEV.to-${title}-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white'/></a>"
-          comment_tag_name: "dev_posts"  # This must match exactly with the tags in README
+          template: "- <a href='$url'><img alt='DEV' src='https://img.shields.io/badge/DEV-${title// /_}-black?style=flat&logo=dev.to'/></a>"
+          comment_tag_name: "dev_posts"
+          transform: |
+            {
+              "title": {
+                "replace": {
+                  " ": "_",
+                  ":": "",
+                  "?": "",
+                  "|": "",
+                  "/": "_",
+                  "\\": "_"
+                }
+              }
+            }
