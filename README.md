@@ -158,7 +158,6 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-[![](https://img.shields.io/badge/📝_$source-Test-2ea44f)](${url})[![](https://img.shields.io/badge/📝_$source-Building a Production-Ready K3s Cluster on AWS: A Terraform Journey-2ea44f)](${url})[![](https://img.shields.io/badge/📝_$source-Establishing Cross VPC Networking with Amazon EC2 Instances-2ea44f)](${url})[![](https://img.shields.io/badge/📝_$source-DNS: The Unsung Hero of the Internet-2ea44f)](${url})
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 GitHub Analytics
