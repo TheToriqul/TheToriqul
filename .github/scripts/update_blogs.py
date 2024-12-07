@@ -22,11 +22,6 @@ def get_medium_posts():
       <td align="center" width="50%">
         <h3>{title1}</h3>
         <p align="justify">{desc1}</p>
-        <ul>
-          <li>Technical Deep Dive</li>
-          <li>Cloud Infrastructure</li>
-          <li>Step-by-step Guide</li>
-        </ul>
         <p>
           <img src="https://img.shields.io/badge/Published-{date1}-00C853?style=flat&logo=medium"/>
           <img src="https://img.shields.io/badge/Read_Time-10_min-2F81F7?style=flat"/>
@@ -38,11 +33,6 @@ def get_medium_posts():
       <td align="center" width="50%">
         <h3>{title2}</h3>
         <p align="justify">{desc2}</p>
-        <ul>
-          <li>Technical Deep Dive</li>
-          <li>Cloud Infrastructure</li>
-          <li>Best Practices</li>
-        </ul>
         <p>
           <img src="https://img.shields.io/badge/Published-{date2}-00C853?style=flat&logo=medium"/>
           <img src="https://img.shields.io/badge/Read_Time-8_min-2F81F7?style=flat"/>
