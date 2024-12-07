@@ -1,8 +1,8 @@
 name: Latest Blog Posts
 on:
   schedule:
-    - cron: '0 */12 * * *'
-  workflow_dispatch:
+    - cron: '0 */12 * * *'  # Runs every 12 hours
+  workflow_dispatch:  # Allows manual trigger
 
 permissions:
   contents: write
@@ -17,7 +17,8 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@thetoriqul"
           max_post_count: 5
-          template: "- [${title}](${url}) - ${date}"
-          date_format: "mm/dd/yyyy"
+          template: "- [![Blog](https://img.shields.io/badge/📝_Medium-${title}-2ea44f)](${url})"
+          comment_tag_name: "BLOG-POST-LIST"
           disable_sort: false
           tag_post_pre_newline: true
+          date_format: "yyyy-mm-dd"
