@@ -161,16 +161,41 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
   <h3>✍️ My Recent Articles</h3>
   <div align="left" style="padding: 10px;">
     <!-- BLOG-POST-LIST:START -->
-<div align="left" style="margin-top: 10px;">
-<div class="blog-post" style="margin-bottom: 10px;">&nbsp;&nbsp;📝 <a href="https://medium.com/@TheToriqul/building-a-production-ready-k3s-cluster-on-aws-a-terraform-journey-b9bbfd9a0761">Building a Production-Ready K3s Cluster on AWS: A Terraform Journey</a></div>
-<div class="blog-post" style="margin-bottom: 10px;">&nbsp;&nbsp;📝 <a href="https://medium.com/@TheToriqul/cross-vpc-connection-c83fefd4d021">Establishing Cross VPC Networking with Amazon EC2 Instances</a></div>
-<div class="blog-post" style="margin-bottom: 10px;">&nbsp;&nbsp;📝 <a href="https://medium.com/@TheToriqul/dns-the-unsung-hero-of-the-internet-f43c45f08e3f">DNS: The Unsung Hero of the Internet</a></div>
-</div>
-
-<div align="center">
-  <a href="https://medium.com/@TheToriqul">
-    <img src="https://img.shields.io/badge/READ_MORE_ON_MEDIUM-2F81F7?style=for-the-badge&logo=medium&logoColor=white" alt="Read More on Medium"/>
-  </a>
+<div align="center" style="margin: 20px 0;">
+    <div style="max-width: 800px; margin: 0 auto;">
+        <h3 style="color: #2F81F7; margin-bottom: 20px; display: flex; align-items: center; justify-content: center; gap: 10px;">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="📚" width="24" height="24">
+            Latest Articles
+        </h3>
+        <div align="left">
+            <div class="blog-post" style="margin-bottom: 20px; padding: 15px; background-color: #1a1b27; border-radius: 8px; border: 1px solid #2F81F7;">
+            <div style="display: flex; align-items: center; margin-bottom: 8px;">
+                <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📝" width="20" height="20" style="margin-right: 8px;">
+                <span style="color: #2F81F7; font-size: 12px;">Oct 24, 2024</span>
+            </div>
+            <a href="https://medium.com/@TheToriqul/building-a-production-ready-k3s-cluster-on-aws-a-terraform-journey-b9bbfd9a0761" style="color: #ffffff; text-decoration: none; font-size: 14px; font-weight: 500; display: block; margin-left: 28px;">Building a Production-Ready K3s Cluster on AWS: A Terraform Journey</a>
+        </div>
+<div class="blog-post" style="margin-bottom: 20px; padding: 15px; background-color: #1a1b27; border-radius: 8px; border: 1px solid #2F81F7;">
+            <div style="display: flex; align-items: center; margin-bottom: 8px;">
+                <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📝" width="20" height="20" style="margin-right: 8px;">
+                <span style="color: #2F81F7; font-size: 12px;">May 22, 2024</span>
+            </div>
+            <a href="https://medium.com/@TheToriqul/cross-vpc-connection-c83fefd4d021" style="color: #ffffff; text-decoration: none; font-size: 14px; font-weight: 500; display: block; margin-left: 28px;">Establishing Cross VPC Networking with Amazon EC2 Instances</a>
+        </div>
+<div class="blog-post" style="margin-bottom: 20px; padding: 15px; background-color: #1a1b27; border-radius: 8px; border: 1px solid #2F81F7;">
+            <div style="display: flex; align-items: center; margin-bottom: 8px;">
+                <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📝" width="20" height="20" style="margin-right: 8px;">
+                <span style="color: #2F81F7; font-size: 12px;">May 16, 2024</span>
+            </div>
+            <a href="https://medium.com/@TheToriqul/dns-the-unsung-hero-of-the-internet-f43c45f08e3f" style="color: #ffffff; text-decoration: none; font-size: 14px; font-weight: 500; display: block; margin-left: 28px;">DNS: The Unsung Hero of the Internet</a>
+        </div>
+        </div>
+        <div style="margin-top: 15px;">
+            <a href="https://medium.com/@TheToriqul">
+                <img src="https://img.shields.io/badge/READ_MORE_ON_MEDIUM-2F81F7?style=for-the-badge&logo=medium&logoColor=white" alt="Read More on Medium"/>
+            </a>
+        </div>
+    </div>
 </div>
 <!-- BLOG-POST-LIST:END -->
   </div>
