@@ -2,6 +2,7 @@ import feedparser
 import os
 import re
 from datetime import datetime
+from email.utils import parsedate_to_datetime
 
 def get_medium_posts():
     username = os.getenv('MEDIUM_USERNAME', '@TheToriqul')
@@ -12,8 +13,8 @@ def get_medium_posts():
     for entry in feed.entries[:3]:
         title = entry.title
         url = entry.link.split('?')[0]
-        # Parse the published date
-        date = datetime.strptime(entry.published, '%a, %d %b %Y %H:%M:%S %z').strftime('%b %d, %Y')
+        # Using email.utils to parse the date correctly
+        date = parsedate_to_datetime(entry.published).strftime('%b %d, %Y')
         
         post_html = f'''<div class="blog-post" style="margin-bottom: 20px; padding: 15px; background-color: #1a1b27; border-radius: 8px; border: 1px solid #2F81F7;">
             <div style="display: flex; align-items: center; margin-bottom: 8px;">
