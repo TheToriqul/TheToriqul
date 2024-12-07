@@ -157,9 +157,22 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-[Building a Production-Ready K3s Cluster on AWS: A Terraform Journey](https://medium.com/@TheToriqul/building-a-production-ready-k3s-cluster-on-aws-a-terraform-journey-b9bbfd9a0761?source=rss-d5e0512cedd4------2)[Establishing Cross VPC Networking with Amazon EC2 Instances](https://medium.com/@TheToriqul/cross-vpc-connection-c83fefd4d021?source=rss-d5e0512cedd4------2)[DNS: The Unsung Hero of the Internet](https://medium.com/@TheToriqul/dns-the-unsung-hero-of-the-internet-f43c45f08e3f?source=rss-d5e0512cedd4------2)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>✍️ My Recent Articles</h3>
+        <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+        <p align="right">
+          <a href="https://medium.com/@thetoriqul">
+            <img src="https://img.shields.io/badge/Read_More_on_Medium-2F81F7?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📈 GitHub Analytics
 
