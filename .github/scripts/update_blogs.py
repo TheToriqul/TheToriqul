@@ -10,7 +10,7 @@ def get_medium_posts():
     feed = feedparser.parse(feed_url)
     
     posts = []
-    for entry in feed.entries[:6]:  # Increased to 6 posts
+    for entry in feed.entries[:6]:  # Get 6 latest posts
         title = entry.title
         url = entry.link.split('?')[0]
         date = parsedate_to_datetime(entry.published).strftime('%b %d, %Y')
@@ -20,8 +20,7 @@ def get_medium_posts():
         description = description[:150] + '...' if len(description) > 150 else description
         
         # Create card HTML
-        post_html = f'''
-        <div class="blog-card" style="flex: 1; min-width: 300px; max-width: 400px; margin: 10px; background-color: #1a1b27; border-radius: 12px; border: 1px solid #2F81F7; overflow: hidden;">
+        post_html = f'''<div class="blog-card" style="width: calc(50% - 20px); min-width: 300px; background-color: #1a1b27; border-radius: 12px; border: 1px solid #2F81F7; overflow: hidden; margin: 10px;">
             <div style="padding: 20px;">
                 <div style="display: flex; align-items: center; margin-bottom: 12px;">
                     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📝" width="24" height="24" style="margin-right: 10px;">
@@ -36,17 +35,7 @@ def get_medium_posts():
         </div>'''
         posts.append(post_html)
     
-    # Create rows with 2 cards each
-    rows = []
-    for i in range(0, len(posts), 2):
-        row = posts[i:i+2]
-        row_html = f'''
-        <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
-            {''.join(row)}
-        </div>'''
-        rows.append(row_html)
-    
-    return '\n'.join(rows)
+    return '\n'.join(posts)
 
 def update_readme():
     with open('README.md', 'r', encoding='utf-8') as file:
@@ -56,12 +45,14 @@ def update_readme():
     
     new_section = f'''<!-- BLOG-POST-LIST:START -->
 <div align="center" style="margin: 40px 0;">
-    <div style="max-width: 1000px; margin: 0 auto;">
+    <div style="max-width: 1200px; margin: 0 auto;">
         <h2 style="color: #2F81F7; margin-bottom: 30px; display: flex; align-items: center; justify-content: center; gap: 15px;">
             <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="📚" width="32" height="32">
             Latest Articles
         </h2>
-        {blog_posts}
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 0 auto;">
+            {blog_posts}
+        </div>
         <div style="margin-top: 30px;">
             <a href="https://medium.com/@TheToriqul" style="display: inline-block; padding: 12px 24px; background-color: #2F81F7; color: white; text-decoration: none; border-radius: 8px; font-weight: 600; transition: background-color 0.3s;">
                 View All Articles on Medium
