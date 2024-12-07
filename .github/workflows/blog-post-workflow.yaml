@@ -1,27 +1,34 @@
-name: Latest Blog Posts Workflow
+name: Update Blog Posts
 on:
   schedule:
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
-    name: Update README with latest blog posts
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Pull in Medium posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          feed_list: "https://medium.com/feed/@thetoriqul"
-          max_post_count: 5
-          template: "\n• [$title]($url)"
-          commit_message: "Updated README with latest Medium blog posts"
-          commit_user_name: "blog-post-bot"
-          commit_user_email: "toriqul.int@gmail.com"
-          output_only_file_name: "README.md"
-          retry_count: 3
-          sort_by: published
-          tag_post_pre_newline: false
-          custom_tags: "<!-- BLOG-POST-LIST:START -->\n<!-- BLOG-POST-LIST:END -->"
+          python-version: '3.x'
+          
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Update README with blog posts
+        run: |
+          python .github/scripts/update_blogs.py
+        env:
+          MEDIUM_USERNAME: "@TheToriqul"
+          
+      - name: Commit and push if changed
+        run: |
+          git diff
+          git config --global user.email "toriqul.int@gmail.com"
+          git config --global user.name "blog-post-bot"
+          git add -A
+          git commit -m "Updated blog posts" || exit 0
+          git push
