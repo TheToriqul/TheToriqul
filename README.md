@@ -158,28 +158,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<div align="center">
-<table>
-<tr>
-<th>Medium Posts</th>
-<th>DEV Posts</th>
-</tr>
-<tr>
-<td>
-
-<!-- medium_posts:START -->
-<!-- medium_posts:END -->
-
-</td>
-<td>
-
-<!-- dev_posts:START -->
-<!-- dev_posts:END -->
-
-</td>
-</tr>
-</table>
-</div>
+<td align='left'><a href='${url}'><img src='https://img.shields.io/badge/${source}-${title}-12100E?style=for-the-badge&logo=${source}&logoColor=white'/></a></td><td align='left'><a href='${url}'><img src='https://img.shields.io/badge/${source}-${title}-12100E?style=for-the-badge&logo=${source}&logoColor=white'/></a></td><td align='left'><a href='${url}'><img src='https://img.shields.io/badge/${source}-${title}-12100E?style=for-the-badge&logo=${source}&logoColor=white'/></a></td><td align='left'><a href='${url}'><img src='https://img.shields.io/badge/${source}-${title}-12100E?style=for-the-badge&logo=${source}&logoColor=white'/></a></td>
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 GitHub Analytics
