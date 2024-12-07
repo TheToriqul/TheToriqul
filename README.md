@@ -265,6 +265,10 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
 
 ## 📈 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thetoriqul&theme=vue-dark&row=1&margin-w=15&margin-h=15&count_private=true&include_all_commits=true" alt="TheToriqul GitHub Trophies" />
+</p>
+
 <div align="center">
   <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thetoriqul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200"/>
   <img height="155em" src="https://github-readme-streak-stats.herokuapp.com?user=thetoriqul&theme=tokyonight&hide_border=true"/>
