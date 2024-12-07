@@ -162,15 +162,13 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
   <div align="left" style="padding: 10px;">
     <!-- BLOG-POST-LIST:START -->
 <div align="center" style="margin: 40px 0;">
-    <div style="max-width: 1000px; margin: 0 auto;">
+    <div style="max-width: 1200px; margin: 0 auto;">
         <h2 style="color: #2F81F7; margin-bottom: 30px; display: flex; align-items: center; justify-content: center; gap: 15px;">
             <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="📚" width="32" height="32">
             Latest Articles
         </h2>
-        
-        <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
-            
-        <div class="blog-card" style="flex: 1; min-width: 300px; max-width: 400px; margin: 10px; background-color: #1a1b27; border-radius: 12px; border: 1px solid #2F81F7; overflow: hidden;">
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 0 auto;">
+            <div class="blog-card" style="width: calc(50% - 20px); min-width: 300px; background-color: #1a1b27; border-radius: 12px; border: 1px solid #2F81F7; overflow: hidden; margin: 10px;">
             <div style="padding: 20px;">
                 <div style="display: flex; align-items: center; margin-bottom: 12px;">
                     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📝" width="24" height="24" style="margin-right: 10px;">
@@ -183,7 +181,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
                 <a href="https://medium.com/@TheToriqul/building-a-production-ready-k3s-cluster-on-aws-a-terraform-journey-b9bbfd9a0761" style="display: inline-block; padding: 8px 16px; background-color: #2F81F7; color: white; text-decoration: none; border-radius: 6px; font-size: 14px; transition: background-color 0.3s;">Read More</a>
             </div>
         </div>
-        <div class="blog-card" style="flex: 1; min-width: 300px; max-width: 400px; margin: 10px; background-color: #1a1b27; border-radius: 12px; border: 1px solid #2F81F7; overflow: hidden;">
+<div class="blog-card" style="width: calc(50% - 20px); min-width: 300px; background-color: #1a1b27; border-radius: 12px; border: 1px solid #2F81F7; overflow: hidden; margin: 10px;">
             <div style="padding: 20px;">
                 <div style="display: flex; align-items: center; margin-bottom: 12px;">
                     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📝" width="24" height="24" style="margin-right: 10px;">
@@ -196,11 +194,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
                 <a href="https://medium.com/@TheToriqul/cross-vpc-connection-c83fefd4d021" style="display: inline-block; padding: 8px 16px; background-color: #2F81F7; color: white; text-decoration: none; border-radius: 6px; font-size: 14px; transition: background-color 0.3s;">Read More</a>
             </div>
         </div>
-        </div>
-
-        <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
-            
-        <div class="blog-card" style="flex: 1; min-width: 300px; max-width: 400px; margin: 10px; background-color: #1a1b27; border-radius: 12px; border: 1px solid #2F81F7; overflow: hidden;">
+<div class="blog-card" style="width: calc(50% - 20px); min-width: 300px; background-color: #1a1b27; border-radius: 12px; border: 1px solid #2F81F7; overflow: hidden; margin: 10px;">
             <div style="padding: 20px;">
                 <div style="display: flex; align-items: center; margin-bottom: 12px;">
                     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📝" width="24" height="24" style="margin-right: 10px;">
