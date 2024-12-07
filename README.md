@@ -174,9 +174,6 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
 </div>
 <!-- BLOG-POST-LIST:END -->
   </div>
-  <a href="https://medium.com/@thetoriqul">
-    <img src="https://img.shields.io/badge/READ_MORE_ON_MEDIUM-2F81F7?style=for-the-badge&logo=medium&logoColor=white" alt="Read More on Medium"/>
-  </a>
 </div>
 
 ## 📈 GitHub Analytics
