@@ -161,72 +161,52 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
   <h3>✍️ My Recent Articles</h3>
   <div align="left" style="padding: 10px;">
     <!-- BLOG-POST-LIST:START -->
-<div align="center" style="margin: 40px auto; max-width: 1200px; padding: 0 20px;">
-    <h2 style="color: #2F81F7; margin-bottom: 30px; display: flex; align-items: center; justify-content: center; gap: 15px;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="📚" width="32" height="32">
-        Latest Articles
-    </h2>
-    <div style="display: flex; flex-direction: column; gap: 20px; width: 100%;">
-        <div style="display: flex; gap: 20px; width: 100%;">
-            <div style="flex: 1; min-width: 300px; background-color: #1a1b27; border: 1px solid #2F81F7; border-radius: 8px; padding: 24px;">
-            <h3 style="margin: 0 0 16px 0;">
-                <a href="https://medium.com/@TheToriqul/building-a-production-ready-k3s-cluster-on-aws-a-terraform-journey-b9bbfd9a0761" style="color: #2F81F7; text-decoration: none; font-size: 24px;">Building a Production-Ready K3s Cluster on AWS: A Terraform Journey</a>
-            </h3>
-            <p style="color: #a0aec0; margin: 16px 0;">IntroductionIn today’s cloud-native landscape, running lightweight, efficient Kubernetes clusters has become increasingly important. Enter K3s: Ranche...</p>
-            <ul style="list-style: none; padding: 0; margin: 16px 0;">
-                <li style="margin-bottom: 8px; color: #ffffff;">
-                    <span style="display: inline-block; background-color: #2F81F7; padding: 4px 8px; border-radius: 4px; margin-right: 8px;">
-                        Published
-                    </span>
-                    Oct 24, 2024
-                </li>
-            </ul>
-            <div style="margin-top: 16px;">
-                <a href="https://medium.com/@TheToriqul/building-a-production-ready-k3s-cluster-on-aws-a-terraform-journey-b9bbfd9a0761" style="display: inline-block; padding: 8px 16px; background-color: #2F81F7; color: white; text-decoration: none; border-radius: 4px;">Read Article</a>
-            </div>
-        </div>
-            <div style="flex: 1; min-width: 300px; background-color: #1a1b27; border: 1px solid #2F81F7; border-radius: 8px; padding: 24px;">
-            <h3 style="margin: 0 0 16px 0;">
-                <a href="https://medium.com/@TheToriqul/cross-vpc-connection-c83fefd4d021" style="color: #2F81F7; text-decoration: none; font-size: 24px;">Establishing Cross VPC Networking with Amazon EC2 Instances</a>
-            </h3>
-            <p style="color: #a0aec0; margin: 16px 0;">In the realm of cloud computing, effective network segmentation and secure connectivity between different segments are crucial. This blog post will wa...</p>
-            <ul style="list-style: none; padding: 0; margin: 16px 0;">
-                <li style="margin-bottom: 8px; color: #ffffff;">
-                    <span style="display: inline-block; background-color: #2F81F7; padding: 4px 8px; border-radius: 4px; margin-right: 8px;">
-                        Published
-                    </span>
-                    May 22, 2024
-                </li>
-            </ul>
-            <div style="margin-top: 16px;">
-                <a href="https://medium.com/@TheToriqul/cross-vpc-connection-c83fefd4d021" style="display: inline-block; padding: 8px 16px; background-color: #2F81F7; color: white; text-decoration: none; border-radius: 4px;">Read Article</a>
-            </div>
-        </div>
-        </div>
-<div style="display: flex; gap: 20px; width: 100%;">
-            <div style="flex: 1; min-width: 300px; background-color: #1a1b27; border: 1px solid #2F81F7; border-radius: 8px; padding: 24px;">
-            <h3 style="margin: 0 0 16px 0;">
-                <a href="https://medium.com/@TheToriqul/dns-the-unsung-hero-of-the-internet-f43c45f08e3f" style="color: #2F81F7; text-decoration: none; font-size: 24px;">DNS: The Unsung Hero of the Internet</a>
-            </h3>
-            <p style="color: #a0aec0; margin: 16px 0;">The internet, a vast and intricate network connecting billions of devices globally, thrives on the seamless exchange of information. But have you ever...</p>
-            <ul style="list-style: none; padding: 0; margin: 16px 0;">
-                <li style="margin-bottom: 8px; color: #ffffff;">
-                    <span style="display: inline-block; background-color: #2F81F7; padding: 4px 8px; border-radius: 4px; margin-right: 8px;">
-                        Published
-                    </span>
-                    May 16, 2024
-                </li>
-            </ul>
-            <div style="margin-top: 16px;">
-                <a href="https://medium.com/@TheToriqul/dns-the-unsung-hero-of-the-internet-f43c45f08e3f" style="display: inline-block; padding: 8px 16px; background-color: #2F81F7; color: white; text-decoration: none; border-radius: 4px;">Read Article</a>
-            </div>
-        </div>
-            <div style="flex: 1; min-width: 300px;"></div>
-        </div>
+<div align="center">
+    <h2>📝 Latest Blog Posts</h2>
+    
+    <div align="center">
+        <table>
+            <tr>
+                <td width="50%">
+                    <h3>
+                        <a href="https://medium.com/@TheToriqul/building-a-production-ready-k3s-cluster-on-aws-a-terraform-journey-b9bbfd9a0761" style="color: #2F81F7; text-decoration: none;">
+                            Building a Production-Ready K3s Cluster on AWS: A Terraform Journey
+                        </a>
+                    </h3>
+                    <p><figure><img alt="" src="https://cdn-images-1.medium.com/max/1024/1*545LzCRevv4lypRkr8nIlQ.png" /></...</p>
+                    <ul>
+                        <li>Published on Medium</li>
+                        <li>Technical Article</li>
+                        <li>Cloud & DevOps</li>
+                    </ul>
+                    <p>
+                        <img src="https://img.shields.io/badge/Status-Published-00C853?style=flat&logo=checkmarx"/>
+                        <img src="https://img.shields.io/badge/Date-Oct_2024-00C853?style=flat"/>
+                    </p>
+                </td>
+                <td width="50%">
+                    <h3>
+                        <a href="https://medium.com/@TheToriqul/cross-vpc-connection-c83fefd4d021" style="color: #2F81F7; text-decoration: none;">
+                            Establishing Cross VPC Networking with Amazon EC2 Instances
+                        </a>
+                    </h3>
+                    <p>In the realm of cloud computing, effective network segmentation and secure connectivity between d...</p>
+                    <ul>
+                        <li>Published on Medium</li>
+                        <li>Technical Article</li>
+                        <li>Cloud & DevOps</li>
+                    </ul>
+                    <p>
+                        <img src="https://img.shields.io/badge/Status-Published-00C853?style=flat&logo=checkmarx"/>
+                        <img src="https://img.shields.io/badge/Date-May_2024-00C853?style=flat"/>
+                    </p>
+                </td>
+            </tr>
+        </table>
     </div>
-    <div style="margin-top: 30px;">
-        <a href="https://medium.com/@TheToriqul" style="display: inline-block; padding: 12px 24px; background-color: #2F81F7; color: white; text-decoration: none; border-radius: 8px; font-weight: 600; transition: background-color 0.3s;">
-            View All Articles on Medium
+    <div style="margin-top: 20px;">
+        <a href="https://medium.com/@TheToriqul">
+            <img src="https://img.shields.io/badge/READ_MORE_ON_MEDIUM-2F81F7?style=for-the-badge&logo=medium&logoColor=white" alt="Read More on Medium"/>
         </a>
     </div>
 </div>
