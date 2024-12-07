@@ -79,13 +79,77 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
 </div>
 
 ## 💼 Professional Journey
-
 > From Shipbuilding to Cloud Architecture: A story of continuous learning and adaptation
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" width="50%">
+        <h3>🚢 Shipbuilding Engineering (2019-2021)</h3>
+        <p>Graduated with Diploma in Engineering Shipbuilding Technology. First exposure to automation through shipyard manufacturing systems.</p>
+        <div>
+          <img src="https://img.shields.io/badge/Expertise-Marine_Engineering-2F81F7?style=flat&logo=anchor"/>
+          <img src="https://img.shields.io/badge/Impact-Automation_Focused-00C853?style=flat"/>
+        </div>
+        <details>
+          <summary><strong>More about my engineering background...</strong></summary>
+          • Led technical documentation and design review processes<br>
+          • Introduced automation to streamline engineering workflows<br>
+          • Collaborated with cross-functional teams on complex shipbuilding projects<br>
+          • Developed expertise in CAD/CAM software and production planning
+        </details>
+      </td>
+      <td align="left" width="50%">
+        <h3>💻 Technology Transition (2021-2022)</h3>
+        <p>Self-taught programmer with a focus on Python and Shell scripting. Reduced documentation processing time by 40% through automation.</p>
+        <div>
+          <img src="https://img.shields.io/badge/Skills-Python_|_Shell-2F81F7?style=flat&logo=python"/>
+          <img src="https://img.shields.io/badge/Impact-40%25_Faster-00C853?style=flat"/>
+        </div>
+        <details>
+          <summary><strong>More about my tech transition...</strong></summary>
+          • Mastered system administration and Linux environments<br>
+          • Completed certifications in AWS fundamentals<br>
+          • Built custom workflow automation tools<br>
+          • Contributed to open-source automation projects
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" width="50%">
+        <h3>☁️ DevOps & Cloud Engineering (2022-Present)</h3>
+        <p>Successfully transitioned to full-time DevOps role. Led enterprise cloud migration projects with 60% faster deployment times.</p>
+        <div>
+          <img src="https://img.shields.io/badge/Role-DevOps_Engineer-2F81F7?style=flat&logo=ansible"/>
+          <img src="https://img.shields.io/badge/Impact-60%25_Faster-00C853?style=flat"/>
+        </div>
+        <details>
+          <summary><strong>More about my DevOps journey...</strong></summary>
+          • Architected multi-cloud infrastructures across AWS, GCP, and Azure<br>
+          • Implemented GitOps workflows and CI/CD pipelines<br>
+          • Orchestrated containerized applications using Kubernetes<br>
+          • Specialized in infrastructure automation and configuration management
+        </details>
+      </td>
+      <td align="left" width="50%">
+        <h3>📚 Current Education & Growth</h3>
+        <p>Pursuing Bachelor's in Computer Science (Cloud Computing). Actively working toward AWS Solutions Architect Associate certification.</p>
+        <div>
+          <img src="https://img.shields.io/badge/Focus-Cloud_Computing-2F81F7?style=flat&logo=amazonaws"/>
+          <img src="https://img.shields.io/badge/Graduation-2027-00C853?style=flat&logo=mortarboard"/>
+        </div>
+        <details>
+          <summary><strong>More about my ongoing development...</strong></summary>
+          • Regular technical writer on cloud architecture and DevOps practices<br>
+          • Active contributor to cloud-native open source projects<br>
+          • Focus on advanced distributed systems and cloud architecture<br>
+          • Building expertise in modern cloud-native technologies
+        </details>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- 🚢 Started as a Shipbuilding Engineer with a Diploma in Engineering Shipbuilding Technology
-- 💻 Self-taught programmer with a passion for automation and efficiency
-- ☁️ Transitioned to DevOps and Cloud Engineering
-- 📚 Currently pursuing Bachelor's in Computer Science (Cloud Computing)
+> "Every challenge in shipbuilding taught me the value of systematic problem-solving - a skill that proved invaluable in cloud architecture."
 
 ## 🎖️ Certifications to Achieve
 
