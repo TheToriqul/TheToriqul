@@ -158,56 +158,52 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
 
 <!-- BLOG-POST-LIST:START -->
 
-<div align="center">
-    <h2>📝 Latest Blog Posts</h2>
-    
-    <div align="center">
-        <table>
-            <tr>
-                <td width="50%">
-                    <h3>
-                        <a href="https://medium.com/@TheToriqul/building-a-production-ready-k3s-cluster-on-aws-a-terraform-journey-b9bbfd9a0761" style="color: #2F81F7; text-decoration: none;">
-                            Building a Production-Ready K3s Cluster on AWS: A Terraform Journey
-                        </a>
-                    </h3>
-                    <p><figure><img alt="" src="https://cdn-images-1.medium.com/max/1024/1*545LzCRevv4lypRkr8nIlQ.png" /></...</p>
-                    <ul>
-                        <li>Published on Medium</li>
-                        <li>Technical Article</li>
-                        <li>Cloud & DevOps</li>
-                    </ul>
-                    <p>
-                        <img src="https://img.shields.io/badge/Status-Published-00C853?style=flat&logo=checkmarx"/>
-                        <img src="https://img.shields.io/badge/Date-Oct_2024-00C853?style=flat"/>
-                    </p>
-                </td>
-                <td width="50%">
-                    <h3>
-                        <a href="https://medium.com/@TheToriqul/cross-vpc-connection-c83fefd4d021" style="color: #2F81F7; text-decoration: none;">
-                            Establishing Cross VPC Networking with Amazon EC2 Instances
-                        </a>
-                    </h3>
-                    <p>In the realm of cloud computing, effective network segmentation and secure connectivity between d...</p>
-                    <ul>
-                        <li>Published on Medium</li>
-                        <li>Technical Article</li>
-                        <li>Cloud & DevOps</li>
-                    </ul>
-                    <p>
-                        <img src="https://img.shields.io/badge/Status-Published-00C853?style=flat&logo=checkmarx"/>
-                        <img src="https://img.shields.io/badge/Date-May_2024-00C853?style=flat"/>
-                    </p>
-                </td>
-            </tr>
-        </table>
-    </div>
-    <div style="margin-top: 20px;">
-        <a href="https://medium.com/@TheToriqul">
-            <img src="https://img.shields.io/badge/READ_MORE_ON_MEDIUM-2F81F7?style=for-the-badge&logo=medium&logoColor=white" alt="Read More on Medium"/>
-        </a>
-    </div>
-</div>
+## 📝 Latest Blog Posts
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>Building a Production-Ready K3s Cluster on AWS: A Terraform Journey</h3>
+        <p align="justify">IntroductionIn today’s cloud-native landscape, running lightweight, efficient Kubernetes clusters has become increasingly important. Enter K3s: Ranche...</p>
+        <ul>
+          <li>Technical Deep Dive</li>
+          <li>Cloud Infrastructure</li>
+          <li>Step-by-step Guide</li>
+        </ul>
+        <p>
+          <img src="https://img.shields.io/badge/Published-Oct_2024-00C853?style=flat&logo=medium"/>
+          <img src="https://img.shields.io/badge/Read_Time-10_min-2F81F7?style=flat"/>
+        </p>
+        <a href="https://medium.com/@TheToriqul/building-a-production-ready-k3s-cluster-on-aws-a-terraform-journey-b9bbfd9a0761">
+          <img src="https://img.shields.io/badge/Read_Article-2F81F7?style=for-the-badge&logo=medium"/>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <h3>Establishing Cross VPC Networking with Amazon EC2 Instances</h3>
+        <p align="justify">In the realm of cloud computing, effective network segmentation and secure connectivity between different segments are crucial. This blog post will wa...</p>
+        <ul>
+          <li>Technical Deep Dive</li>
+          <li>Cloud Infrastructure</li>
+          <li>Best Practices</li>
+        </ul>
+        <p>
+          <img src="https://img.shields.io/badge/Published-May_2024-00C853?style=flat&logo=medium"/>
+          <img src="https://img.shields.io/badge/Read_Time-8_min-2F81F7?style=flat"/>
+        </p>
+        <a href="https://medium.com/@TheToriqul/cross-vpc-connection-c83fefd4d021">
+          <img src="https://img.shields.io/badge/Read_Article-2F81F7?style=for-the-badge&logo=medium"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <p align="center">
+    <a href="https://medium.com/@TheToriqul">
+      <img src="https://img.shields.io/badge/MORE_ON_MEDIUM-2F81F7?style=for-the-badge&logo=medium&logoColor=white"/>
+    </a>
+  </p>
+</div>
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 GitHub Analytics
