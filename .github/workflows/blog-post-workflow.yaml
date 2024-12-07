@@ -16,10 +16,12 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@thetoriqul"
           max_post_count: 5
-          template: "• [$title]($url)"
+          template: "\n• [$title]($url)"
           commit_message: "Updated README with latest Medium blog posts"
           commit_user_name: "blog-post-bot"
           commit_user_email: "toriqul.int@gmail.com"
           output_only_file_name: "README.md"
           retry_count: 3
           sort_by: published
+          tag_post_pre_newline: false
+          custom_tags: "<!-- BLOG-POST-LIST:START -->\n<!-- BLOG-POST-LIST:END -->"
