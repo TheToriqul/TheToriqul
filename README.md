@@ -157,6 +157,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
 
 ## 📝 Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
 <div align="center">
 <table>
 <tr>
@@ -179,6 +180,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
 </tr>
 </table>
 </div>
+<!-- BLOG-POST-LIST:END -->
 
 ## 📈 GitHub Analytics
 
