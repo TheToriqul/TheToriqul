@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there%2C+I%E2%80%99m+Toriqul+%F0%9F%91%8B;DevOps+%26+Cloud+Solutions+Specialist;Crafting+Scalable+Cloud+Infrastructures" alt="Typing SVG" />
 
 ---
+
   <h3 align="justify">
 Welcome to my GitHub profile! I specialize in transforming complex infrastructure challenges into elegant, automated solutions. With a passion for cloud-native architecture and infrastructure automation, I focus on building resilient systems that drive innovation and operational excellence. My commitment lies in crafting scalable solutions that empower organizations to achieve their digital transformation goals.
 </h3>
@@ -20,6 +21,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
 </div>
 
 ## 🛠️ Tech Stack & Tools
+
 <div align="center">
   <p>
     <!-- Cloud Platforms -->
@@ -120,7 +122,8 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
 
 ## 🚀 Featured Projects
 
-<table>
+<div align="center">
+  <table>
   <tr>
     <td>
       <h3><a href="https://github.com/TheToriqul/Cloud-Migration-Framework">Cloud Migration Framework</a></h3>
@@ -149,7 +152,8 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
       </p>
     </td>
   </tr>
-</table>
+  </table>
+</div>
 
 ## 📝 Latest Blog Posts
 
@@ -173,6 +177,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
 </div>
 
 ---
+
 <h1 align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&random=false&width=835&lines=Thanks+for+visiting++my+Github%E2%9C%8C%EF%B8%8F;Shoot+me+a+message+on+LinkenIn!;I'm+always+down+to+collaborate+%3A);Let's+📞+connect+and+learn+together!" alt="Typing SVG" />
 </h1>
