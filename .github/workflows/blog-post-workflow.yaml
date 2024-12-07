@@ -1,57 +1,28 @@
-name: Latest Blog Posts
+name: Latest Blog Posts Workflow
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    # Runs every 6 hours
+    - cron: '0 */6 * * *'
   workflow_dispatch:
-
-permissions:
-  contents: write
 
 jobs:
   update-readme-with-blog:
     name: Update README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      
-      - name: Update Medium posts
-        uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@thetoriqul"
           max_post_count: 5
-          template: "- <a href='$url'><img alt='Medium' src='https://img.shields.io/badge/Medium-${title// /_}-black?style=flat&logo=medium'/></a>"
-          comment_tag_name: "medium_posts"
-          transform: |
-            {
-              "title": {
-                "replace": {
-                  " ": "_",
-                  ":": "",
-                  "?": "",
-                  "|": "",
-                  "/": "_",
-                  "\\": "_"
-                }
-              }
-            }
-          
-      - name: Update DEV posts
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://dev.to/feed/thetoriqul"
-          max_post_count: 5
-          template: "- <a href='$url'><img alt='DEV' src='https://img.shields.io/badge/DEV-${title// /_}-black?style=flat&logo=dev.to'/></a>"
-          comment_tag_name: "dev_posts"
-          transform: |
-            {
-              "title": {
-                "replace": {
-                  " ": "_",
-                  ":": "",
-                  "?": "",
-                  "|": "",
-                  "/": "_",
-                  "\\": "_"
-                }
-              }
-            }
+          template: "[$title]($url)"
+          commit_message: "Updated README with latest Medium blog posts"
+          commit_user_name: "blog-post-bot"
+          commit_user_email: "toriqul.int@gmail.com"
+          output_only_file_name: "README.md"
+          retry_count: 3
+          sort_by: published
+          tag_post_pre_newline: true
+          custom_tags: "<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->"
