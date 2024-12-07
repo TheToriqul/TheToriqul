@@ -17,7 +17,7 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@thetoriqul"
           max_post_count: 5
-          template: "[![Blog Post](https://img.shields.io/badge/📝_$title-2F81F7?style=for-the-badge)]($url)"
+          template: "[![📝 $title](https://img.shields.io/badge/📝_$title-2F81F7?style=for-the-badge&logoColor=white)]($url)"
           commit_message: "Updated README with latest Medium blog posts"
           commit_user_name: "blog-post-bot"
           commit_user_email: "toriqul.int@gmail.com"
