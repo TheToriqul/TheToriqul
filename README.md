@@ -161,38 +161,62 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
   <h3>✍️ My Recent Articles</h3>
   <div align="left" style="padding: 10px;">
     <!-- BLOG-POST-LIST:START -->
-<div align="center" style="margin: 20px 0;">
-    <div style="max-width: 800px; margin: 0 auto;">
-        <h3 style="color: #2F81F7; margin-bottom: 20px; display: flex; align-items: center; justify-content: center; gap: 10px;">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="📚" width="24" height="24">
+<div align="center" style="margin: 40px 0;">
+    <div style="max-width: 1000px; margin: 0 auto;">
+        <h2 style="color: #2F81F7; margin-bottom: 30px; display: flex; align-items: center; justify-content: center; gap: 15px;">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="📚" width="32" height="32">
             Latest Articles
-        </h3>
-        <div align="left">
-            <div class="blog-post" style="margin-bottom: 20px; padding: 15px; background-color: #1a1b27; border-radius: 8px; border: 1px solid #2F81F7;">
-            <div style="display: flex; align-items: center; margin-bottom: 8px;">
-                <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📝" width="20" height="20" style="margin-right: 8px;">
-                <span style="color: #2F81F7; font-size: 12px;">Oct 24, 2024</span>
+        </h2>
+        
+        <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
+            
+        <div class="blog-card" style="flex: 1; min-width: 300px; max-width: 400px; margin: 10px; background-color: #1a1b27; border-radius: 12px; border: 1px solid #2F81F7; overflow: hidden;">
+            <div style="padding: 20px;">
+                <div style="display: flex; align-items: center; margin-bottom: 12px;">
+                    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📝" width="24" height="24" style="margin-right: 10px;">
+                    <span style="color: #2F81F7; font-size: 14px;">Oct 24, 2024</span>
+                </div>
+                <h3 style="color: #ffffff; margin: 0 0 12px 0; font-size: 16px; line-height: 1.4;">
+                    <a href="https://medium.com/@TheToriqul/building-a-production-ready-k3s-cluster-on-aws-a-terraform-journey-b9bbfd9a0761" style="color: inherit; text-decoration: none; font-weight: 600;">Building a Production-Ready K3s Cluster on AWS: A Terraform Journey</a>
+                </h3>
+                <p style="color: #a0aec0; font-size: 14px; line-height: 1.6; margin: 0 0 15px 0;">IntroductionIn today’s cloud-native landscape, running lightweight, efficient Kubernetes clusters has become increasingly important. Enter K3s: Ranche...</p>
+                <a href="https://medium.com/@TheToriqul/building-a-production-ready-k3s-cluster-on-aws-a-terraform-journey-b9bbfd9a0761" style="display: inline-block; padding: 8px 16px; background-color: #2F81F7; color: white; text-decoration: none; border-radius: 6px; font-size: 14px; transition: background-color 0.3s;">Read More</a>
             </div>
-            <a href="https://medium.com/@TheToriqul/building-a-production-ready-k3s-cluster-on-aws-a-terraform-journey-b9bbfd9a0761" style="color: #ffffff; text-decoration: none; font-size: 14px; font-weight: 500; display: block; margin-left: 28px;">Building a Production-Ready K3s Cluster on AWS: A Terraform Journey</a>
         </div>
-<div class="blog-post" style="margin-bottom: 20px; padding: 15px; background-color: #1a1b27; border-radius: 8px; border: 1px solid #2F81F7;">
-            <div style="display: flex; align-items: center; margin-bottom: 8px;">
-                <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📝" width="20" height="20" style="margin-right: 8px;">
-                <span style="color: #2F81F7; font-size: 12px;">May 22, 2024</span>
+        <div class="blog-card" style="flex: 1; min-width: 300px; max-width: 400px; margin: 10px; background-color: #1a1b27; border-radius: 12px; border: 1px solid #2F81F7; overflow: hidden;">
+            <div style="padding: 20px;">
+                <div style="display: flex; align-items: center; margin-bottom: 12px;">
+                    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📝" width="24" height="24" style="margin-right: 10px;">
+                    <span style="color: #2F81F7; font-size: 14px;">May 22, 2024</span>
+                </div>
+                <h3 style="color: #ffffff; margin: 0 0 12px 0; font-size: 16px; line-height: 1.4;">
+                    <a href="https://medium.com/@TheToriqul/cross-vpc-connection-c83fefd4d021" style="color: inherit; text-decoration: none; font-weight: 600;">Establishing Cross VPC Networking with Amazon EC2 Instances</a>
+                </h3>
+                <p style="color: #a0aec0; font-size: 14px; line-height: 1.6; margin: 0 0 15px 0;">In the realm of cloud computing, effective network segmentation and secure connectivity between different segments are crucial. This blog post will wa...</p>
+                <a href="https://medium.com/@TheToriqul/cross-vpc-connection-c83fefd4d021" style="display: inline-block; padding: 8px 16px; background-color: #2F81F7; color: white; text-decoration: none; border-radius: 6px; font-size: 14px; transition: background-color 0.3s;">Read More</a>
             </div>
-            <a href="https://medium.com/@TheToriqul/cross-vpc-connection-c83fefd4d021" style="color: #ffffff; text-decoration: none; font-size: 14px; font-weight: 500; display: block; margin-left: 28px;">Establishing Cross VPC Networking with Amazon EC2 Instances</a>
         </div>
-<div class="blog-post" style="margin-bottom: 20px; padding: 15px; background-color: #1a1b27; border-radius: 8px; border: 1px solid #2F81F7;">
-            <div style="display: flex; align-items: center; margin-bottom: 8px;">
-                <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📝" width="20" height="20" style="margin-right: 8px;">
-                <span style="color: #2F81F7; font-size: 12px;">May 16, 2024</span>
+        </div>
+
+        <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
+            
+        <div class="blog-card" style="flex: 1; min-width: 300px; max-width: 400px; margin: 10px; background-color: #1a1b27; border-radius: 12px; border: 1px solid #2F81F7; overflow: hidden;">
+            <div style="padding: 20px;">
+                <div style="display: flex; align-items: center; margin-bottom: 12px;">
+                    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📝" width="24" height="24" style="margin-right: 10px;">
+                    <span style="color: #2F81F7; font-size: 14px;">May 16, 2024</span>
+                </div>
+                <h3 style="color: #ffffff; margin: 0 0 12px 0; font-size: 16px; line-height: 1.4;">
+                    <a href="https://medium.com/@TheToriqul/dns-the-unsung-hero-of-the-internet-f43c45f08e3f" style="color: inherit; text-decoration: none; font-weight: 600;">DNS: The Unsung Hero of the Internet</a>
+                </h3>
+                <p style="color: #a0aec0; font-size: 14px; line-height: 1.6; margin: 0 0 15px 0;">The internet, a vast and intricate network connecting billions of devices globally, thrives on the seamless exchange of information. But have you ever...</p>
+                <a href="https://medium.com/@TheToriqul/dns-the-unsung-hero-of-the-internet-f43c45f08e3f" style="display: inline-block; padding: 8px 16px; background-color: #2F81F7; color: white; text-decoration: none; border-radius: 6px; font-size: 14px; transition: background-color 0.3s;">Read More</a>
             </div>
-            <a href="https://medium.com/@TheToriqul/dns-the-unsung-hero-of-the-internet-f43c45f08e3f" style="color: #ffffff; text-decoration: none; font-size: 14px; font-weight: 500; display: block; margin-left: 28px;">DNS: The Unsung Hero of the Internet</a>
         </div>
         </div>
-        <div style="margin-top: 15px;">
-            <a href="https://medium.com/@TheToriqul">
-                <img src="https://img.shields.io/badge/READ_MORE_ON_MEDIUM-2F81F7?style=for-the-badge&logo=medium&logoColor=white" alt="Read More on Medium"/>
+        <div style="margin-top: 30px;">
+            <a href="https://medium.com/@TheToriqul" style="display: inline-block; padding: 12px 24px; background-color: #2F81F7; color: white; text-decoration: none; border-radius: 8px; font-weight: 600; transition: background-color 0.3s;">
+                View All Articles on Medium
             </a>
         </div>
     </div>
