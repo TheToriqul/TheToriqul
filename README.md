@@ -171,8 +171,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
 </td>
 <td valign="top">
 
-<!-- dev_posts:START -->
-<!-- dev_posts:END -->
+<!-- dev_posts:START -->- <a href='https://dev.to/thetoriqul/test-4785'><img alt='DEV' src='https://img.shields.io/badge/DEV-${title// /_}-black?style=flat&logo=dev.to'/></a><!-- dev_posts:END -->
 
 </td>
 </tr>
