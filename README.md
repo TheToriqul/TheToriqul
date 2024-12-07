@@ -126,7 +126,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
   <table>
   <tr>
     <td>
-      <h3><a href="https://github.com/TheToriqul/Cloud-Migration-Framework">Cloud Migration Framework</a></h3>
+      <h3><a href="https://github.com/TheToriqul/cloud-migration-management">Cloud Migration Framework</a></h3>
       <p>Enterprise-grade cloud migration solution featuring:</p>
       <ul>
         <li>Automated infrastructure provisioning across multiple cloud providers</li>
@@ -139,7 +139,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
       </p>
     </td>
     <td>
-      <h3><a href="https://github.com/TheToriqul/intelligent-load-balancer">Intelligent Load Balancing System</a></h3>
+      <h3><a href="https://github.com/TheToriqul/layer-4-7-load-balancer">Intelligent Load Balancing System</a></h3>
       <p>Advanced load balancing solution featuring:</p>
       <ul>
         <li>ML-powered traffic optimization algorithms</li>
