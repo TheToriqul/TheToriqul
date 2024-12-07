@@ -166,8 +166,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
 <tr>
 <td valign="top">
 
-<!-- medium_posts:START -->
-<!-- medium_posts:END -->
+<!-- medium_posts:START -->- <a href='https://medium.com/@TheToriqul/building-a-production-ready-k3s-cluster-on-aws-a-terraform-journey-b9bbfd9a0761?source=rss-d5e0512cedd4------2'><img src='https://img.shields.io/badge/Medium-${title}-12100E?style=for-the-badge&logo=medium&logoColor=white'/></a>- <a href='https://medium.com/@TheToriqul/cross-vpc-connection-c83fefd4d021?source=rss-d5e0512cedd4------2'><img src='https://img.shields.io/badge/Medium-${title}-12100E?style=for-the-badge&logo=medium&logoColor=white'/></a>- <a href='https://medium.com/@TheToriqul/dns-the-unsung-hero-of-the-internet-f43c45f08e3f?source=rss-d5e0512cedd4------2'><img src='https://img.shields.io/badge/Medium-${title}-12100E?style=for-the-badge&logo=medium&logoColor=white'/></a><!-- medium_posts:END -->
 
 </td>
 <td valign="top">
