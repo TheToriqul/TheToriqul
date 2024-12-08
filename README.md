@@ -231,24 +231,24 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>Building a Production-Ready K3s Cluster on AWS: A Terraform Journey</h3>
-        <p align="justify">IntroductionIn today’s cloud-native landscape, running lightweight, efficient Kubernetes clusters has become increasingly important. Enter K3s: Ranche...</p>
+        <h3>Building an Automated Heat Stress Monitoring System with Microsoft Power Platform and Telegram</h3>
+        <p align="justify">In today’s industrial environments, worker safety is paramount, particularly when it comes to heat stress management. The Wet Bulb Globe Temperature (...</p>
         <p>
-          <img src="https://img.shields.io/badge/Published-Oct_2024-00C853?style=flat&logo=medium"/>
+          <img src="https://img.shields.io/badge/Published-Dec_2024-00C853?style=flat&logo=medium"/>
           <img src="https://img.shields.io/badge/Read_Time-10_min-2F81F7?style=flat"/>
         </p>
-        <a href="https://medium.com/@TheToriqul/building-a-production-ready-k3s-cluster-on-aws-a-terraform-journey-b9bbfd9a0761">
+        <a href="https://medium.com/@TheToriqul/building-an-automated-heat-stress-monitoring-system-with-microsoft-power-platform-and-telegram-7a01805d6841">
           <img src="https://img.shields.io/badge/Read_Article-2F81F7?style=for-the-badge&logo=medium"/>
         </a>
       </td>
       <td align="center" width="50%">
-        <h3>Establishing Cross VPC Networking with Amazon EC2 Instances</h3>
-        <p align="justify">In the realm of cloud computing, effective network segmentation and secure connectivity between different segments are crucial. This blog post will wa...</p>
+        <h3>Building a Production-Ready K3s Cluster on AWS: A Terraform Journey</h3>
+        <p align="justify">IntroductionIn today’s cloud-native landscape, running lightweight, efficient Kubernetes clusters has become increasingly important. Enter K3s: Ranche...</p>
         <p>
-          <img src="https://img.shields.io/badge/Published-May_2024-00C853?style=flat&logo=medium"/>
+          <img src="https://img.shields.io/badge/Published-Oct_2024-00C853?style=flat&logo=medium"/>
           <img src="https://img.shields.io/badge/Read_Time-8_min-2F81F7?style=flat"/>
         </p>
-        <a href="https://medium.com/@TheToriqul/cross-vpc-connection-c83fefd4d021">
+        <a href="https://medium.com/@TheToriqul/building-a-production-ready-k3s-cluster-on-aws-a-terraform-journey-b9bbfd9a0761">
           <img src="https://img.shields.io/badge/Read_Article-2F81F7?style=for-the-badge&logo=medium"/>
         </a>
       </td>
