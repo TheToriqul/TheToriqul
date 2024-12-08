@@ -278,11 +278,10 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheToriqul&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thetoriqul&theme=tokyonight&utcOffset=8"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thetoriqul&theme=tokyonight"/>
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thetoriqul&theme=tokyonight&utcOffset=8"/>
+  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thetoriqul&theme=tokyonight"/>
 </div>
-
 ---
 
 <h1 align="center">
