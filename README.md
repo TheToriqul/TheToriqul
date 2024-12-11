@@ -117,7 +117,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
     <tr>
       <td align="left" width="50%">
         <h3>☁️ DevOps & Cloud Engineering (2022-Present)</h3>
-        <p>Successfully transitioned to full-time DevOps role after completing the course. Led enterprise cloud migration projects with 60% faster deployment times.</p>
+        <p>Successfully transitioned to a full-time DevOps student, enrolling in the DCT2 course to deepen my expertise. Previously led enterprise-level cloud migration projects, achieving 60% faster deployment times through optimized strategies and efficient collaboration.</p>
         <div>
           <img src="https://img.shields.io/badge/Role-DevOps_Engineer-2F81F7?style=flat&logo=ansible"/>
           <img src="https://img.shields.io/badge/Impact-60%25_Faster-00C853?style=flat"/>
