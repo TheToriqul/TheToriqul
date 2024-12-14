@@ -231,24 +231,24 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>Cross-Platform Blog Publishing Automation: Write Once, Publish Everywhere</h3>
-        <p align="justify">🚀 Revolutionizing Blog Publishing: Write Once, Distribute Everywhere! 🌐As content creators in the digital age, we are constantly seeking ways to maxim...</p>
+        <h3>ContainerCraft: A Deep Dive into Node.js Containerization</h3>
+        <p align="justify">From development to deployment, mastering the art of containerizing Node.js applications with Docker.IntroductionIn today’s cloud-native world, contai...</p>
         <p>
           <img src="https://img.shields.io/badge/Published-Dec_2024-00C853?style=flat&logo=medium"/>
           <img src="https://img.shields.io/badge/Read_Time-10_min-2F81F7?style=flat"/>
         </p>
-        <a href="https://medium.com/@TheToriqul/cross-platform-blog-publishing-automation-write-once-publish-everywhere-42e4470bec74">
+        <a href="https://medium.com/@TheToriqul/containercraft-a-deep-dive-into-node-js-containerization-0ecdaa51a29c">
           <img src="https://img.shields.io/badge/Read_Article-2F81F7?style=for-the-badge&logo=medium"/>
         </a>
       </td>
       <td align="center" width="50%">
-        <h3>Building an Automated Heat Stress Monitoring System with Microsoft Power Platform and Telegram</h3>
-        <p align="justify">In today’s industrial environments, worker safety is paramount, particularly when it comes to heat stress management. The Wet Bulb Globe Temperature (...</p>
+        <h3>Cross-Platform Blog Publishing Automation: Write Once, Publish Everywhere</h3>
+        <p align="justify">🚀 Revolutionizing Blog Publishing: Write Once, Distribute Everywhere! 🌐As content creators in the digital age, we are constantly seeking ways to maxim...</p>
         <p>
           <img src="https://img.shields.io/badge/Published-Dec_2024-00C853?style=flat&logo=medium"/>
           <img src="https://img.shields.io/badge/Read_Time-8_min-2F81F7?style=flat"/>
         </p>
-        <a href="https://medium.com/@TheToriqul/building-an-automated-heat-stress-monitoring-system-with-microsoft-power-platform-and-telegram-7a01805d6841">
+        <a href="https://medium.com/@TheToriqul/cross-platform-blog-publishing-automation-write-once-publish-everywhere-42e4470bec74">
           <img src="https://img.shields.io/badge/Read_Article-2F81F7?style=for-the-badge&logo=medium"/>
         </a>
       </td>
