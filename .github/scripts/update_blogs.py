@@ -4,15 +4,57 @@ import re
 from datetime import datetime
 from email.utils import parsedate_to_datetime
 
+def convert_tag_to_badge(tag):
+    """Convert Medium tags to badges matching tech stack style"""
+    tag_mappings = {
+        'aws': ('AWS', '232F3E', 'amazonaws'),
+        'kubernetes': ('Kubernetes', '326CE5', 'kubernetes'),
+        'docker': ('Docker', '2496ED', 'docker'),
+        'devops': ('DevOps', '2088FF', 'githubactions'),
+        'cloud': ('Cloud', '4285F4', 'googlecloud'),
+        'python': ('Python', '3776AB', 'python'),
+        'terraform': ('Terraform', '7B42BC', 'terraform'),
+        'nodejs': ('Node.js', '339933', 'node.js'),
+        'javascript': ('JavaScript', 'F7DF1E', 'javascript'),
+        'automation': ('Automation', '2088FF', 'githubactions'),
+        'linux': ('Linux', 'FCC624', 'linux'),
+        'ansible': ('Ansible', 'EE0000', 'ansible'),
+        'cicd': ('CI/CD', '2088FF', 'githubactions'),
+        'git': ('Git', 'F05032', 'git'),
+        'microservices': ('Microservices', '326CE5', 'kubernetes'),
+        'security': ('Security', 'FF0000', 'shieldsdotio'),
+        'monitoring': ('Monitoring', 'E6522C', 'prometheus')
+    }
+    
+    tag = tag.lower().replace(' ', '-')
+    if tag in tag_mappings:
+        name, color, icon = tag_mappings[tag]
+        return f'<img src="https://img.shields.io/badge/{name}-{color}?style=for-the-badge&logo={icon}&logoColor=white"/>'
+    return None
+
 def get_medium_posts():
     username = os.getenv('MEDIUM_USERNAME', '@TheToriqul')
     feed_url = f'https://medium.com/feed/{username}'
     feed = feedparser.parse(feed_url)
     
-    # Get up to 2 posts (for simplicity and matching the project layout)
     entries = feed.entries[:2]
     
-    # Create GitHub-flavored markdown table
+    def format_post(entry):
+        # Get only tech-related tags and limit to top 3
+        all_tags = [tag['term'] for tag in entry.get('tags', [])]
+        tech_badges = [badge for badge in map(convert_tag_to_badge, all_tags) if badge is not None][:3]
+        tag_section = '\n          '.join(tech_badges) if tech_badges else ''
+        
+        return {
+            'title': entry.title,
+            'desc': re.sub('<[^<]+?>', '', entry.description)[:150] + '...',
+            'url': entry.link.split('?')[0],
+            'date': parsedate_to_datetime(entry.published).strftime('%b_%Y'),
+            'tags': tag_section
+        }
+    
+    posts = [format_post(entry) for entry in entries]
+    
     posts_html = '''
 ## 📝 Latest Blog Posts
 
@@ -20,27 +62,38 @@ def get_medium_posts():
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>{title1}</h3>
-        <p align="justify">{desc1}</p>
+        <h3>{title}</h3>
+        <p align="justify">{desc}</p>
         <p>
-          <img src="https://img.shields.io/badge/Published-{date1}-00C853?style=flat&logo=medium"/>
+          <img src="https://img.shields.io/badge/Published-{date}-00C853?style=flat&logo=medium"/>
           <img src="https://img.shields.io/badge/Read_Time-10_min-2F81F7?style=flat"/>
         </p>
-        <a href="{url1}">
+        <p>
+          {tags}
+        </p>
+        <a href="{url}">
           <img src="https://img.shields.io/badge/Read_Article-2F81F7?style=for-the-badge&logo=medium"/>
         </a>
-      </td>
+      </td>'''.format(**posts[0])
+
+    if len(posts) > 1:
+        posts_html += '''
       <td align="center" width="50%">
-        <h3>{title2}</h3>
-        <p align="justify">{desc2}</p>
+        <h3>{title}</h3>
+        <p align="justify">{desc}</p>
         <p>
-          <img src="https://img.shields.io/badge/Published-{date2}-00C853?style=flat&logo=medium"/>
+          <img src="https://img.shields.io/badge/Published-{date}-00C853?style=flat&logo=medium"/>
           <img src="https://img.shields.io/badge/Read_Time-8_min-2F81F7?style=flat"/>
         </p>
-        <a href="{url2}">
+        <p>
+          {tags}
+        </p>
+        <a href="{url}">
           <img src="https://img.shields.io/badge/Read_Article-2F81F7?style=for-the-badge&logo=medium"/>
         </a>
-      </td>
+      </td>'''.format(**posts[1])
+
+    posts_html += '''
     </tr>
   </table>
 
@@ -49,17 +102,8 @@ def get_medium_posts():
       <img src="https://img.shields.io/badge/MORE_ON_MEDIUM-2F81F7?style=for-the-badge&logo=medium&logoColor=white"/>
     </a>
   </p>
-</div>'''.format(
-        title1=entries[0].title,
-        desc1=re.sub('<[^<]+?>', '', entries[0].description)[:150] + '...',
-        url1=entries[0].link.split('?')[0],
-        date1=parsedate_to_datetime(entries[0].published).strftime('%b_%Y'),
-        title2=entries[1].title,
-        desc2=re.sub('<[^<]+?>', '', entries[1].description)[:150] + '...',
-        url2=entries[1].link.split('?')[0],
-        date2=parsedate_to_datetime(entries[1].published).strftime('%b_%Y')
-    )
-    
+</div>'''
+
     return posts_html
 
 def update_readme():
