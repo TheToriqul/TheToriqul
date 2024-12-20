@@ -40,18 +40,19 @@ def get_medium_posts():
     entries = feed.entries[:2]
     
     def format_post(entry):
-        # Get only tech-related tags and limit to top 3
-        all_tags = [tag['term'] for tag in entry.get('tags', [])]
-        tech_badges = [badge for badge in map(convert_tag_to_badge, all_tags) if badge is not None][:3]
-        tag_section = '\n          '.join(tech_badges) if tech_badges else ''
-        
-        return {
-            'title': entry.title,
-            'desc': re.sub('<[^<]+?>', '', entry.description)[:150] + '...',
-            'url': entry.link.split('?')[0],
-            'date': parsedate_to_datetime(entry.published).strftime('%b_%Y'),
-            'tags': tag_section
-        }
+    # Get only tech-related tags and limit to top 3
+    all_tags = [tag['term'] for tag in entry.get('tags', [])]
+    tech_badges = [badge for badge in map(convert_tag_to_badge, all_tags) if badge is not None][:3]
+    # If no tags, add a placeholder badge
+    tag_section = '\n          '.join(tech_badges) if tech_badges else '<img src="https://img.shields.io/badge/Article-2F81F7?style=for-the-badge&logo=medium&logoColor=white"/>'
+    
+    return {
+        'title': entry.title,
+        'desc': re.sub('<[^<]+?>', '', entry.description)[:150] + '...',
+        'url': entry.link.split('?')[0],
+        'date': parsedate_to_datetime(entry.published).strftime('%b_%Y'),
+        'tags': tag_section
+    }
     
     posts = [format_post(entry) for entry in entries]
     
