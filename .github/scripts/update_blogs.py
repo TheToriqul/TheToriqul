@@ -40,59 +40,59 @@ def get_medium_posts():
     entries = feed.entries[:2]
     
     def format_post(entry):
-    # Get only tech-related tags and limit to top 3
-    all_tags = [tag['term'] for tag in entry.get('tags', [])]
-    tech_badges = [badge for badge in map(convert_tag_to_badge, all_tags) if badge is not None][:3]
-    # If no tags, add a placeholder badge
-    tag_section = '\n          '.join(tech_badges) if tech_badges else '<img src="https://img.shields.io/badge/Article-2F81F7?style=for-the-badge&logo=medium&logoColor=white"/>'
-    
-    return {
-        'title': entry.title,
-        'desc': re.sub('<[^<]+?>', '', entry.description)[:150] + '...',
-        'url': entry.link.split('?')[0],
-        'date': parsedate_to_datetime(entry.published).strftime('%b_%Y'),
-        'tags': tag_section
-    }
+        # Get only tech-related tags and limit to top 3
+        all_tags = [tag['term'] for tag in entry.get('tags', [])]
+        tech_badges = [badge for badge in map(convert_tag_to_badge, all_tags) if badge is not None][:3]
+        # If no tags, add a placeholder badge
+        tag_section = '\n          '.join(tech_badges) if tech_badges else '<img src="https://img.shields.io/badge/Article-2F81F7?style=for-the-badge&logo=medium&logoColor=white"/>'
+        
+        return {
+            'title': entry.title,
+            'desc': re.sub('<[^<]+?>', '', entry.description)[:150] + '...',
+            'url': entry.link.split('?')[0],
+            'date': parsedate_to_datetime(entry.published).strftime('%b_%Y'),
+            'tags': tag_section
+        }
     
     posts = [format_post(entry) for entry in entries]
     
-    posts_html = '''
+    posts_html = f'''
 ## 📝 Latest Blog Posts
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>{title}</h3>
-        <p align="justify">{desc}</p>
+        <h3>{posts[0]['title']}</h3>
+        <p align="justify">{posts[0]['desc']}</p>
         <p>
-          <img src="https://img.shields.io/badge/Published-{date}-00C853?style=flat&logo=medium"/>
+          <img src="https://img.shields.io/badge/Published-{posts[0]['date']}-00C853?style=flat&logo=medium"/>
           <img src="https://img.shields.io/badge/Read_Time-10_min-2F81F7?style=flat"/>
         </p>
-        <p>
-          {tags}
+        <p style="min-height: 40px">
+          {posts[0]['tags']}
         </p>
-        <a href="{url}">
+        <a href="{posts[0]['url']}">
           <img src="https://img.shields.io/badge/Read_Article-2F81F7?style=for-the-badge&logo=medium"/>
         </a>
-      </td>'''.format(**posts[0])
+      </td>'''
 
     if len(posts) > 1:
-        posts_html += '''
+        posts_html += f'''
       <td align="center" width="50%">
-        <h3>{title}</h3>
-        <p align="justify">{desc}</p>
+        <h3>{posts[1]['title']}</h3>
+        <p align="justify">{posts[1]['desc']}</p>
         <p>
-          <img src="https://img.shields.io/badge/Published-{date}-00C853?style=flat&logo=medium"/>
+          <img src="https://img.shields.io/badge/Published-{posts[1]['date']}-00C853?style=flat&logo=medium"/>
           <img src="https://img.shields.io/badge/Read_Time-8_min-2F81F7?style=flat"/>
         </p>
-        <p>
-          {tags}
+        <p style="min-height: 40px">
+          {posts[1]['tags']}
         </p>
-        <a href="{url}">
+        <a href="{posts[1]['url']}">
           <img src="https://img.shields.io/badge/Read_Article-2F81F7?style=for-the-badge&logo=medium"/>
         </a>
-      </td>'''.format(**posts[1])
+      </td>'''
 
     posts_html += '''
     </tr>
