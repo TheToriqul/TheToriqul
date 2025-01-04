@@ -1,6 +1,10 @@
 <div>
+  <a href="https://leetcode.com/TheToriqul">
+    <img align="left" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FTheToriqul&logo=leetcode&logoColor=yellow" alt="LeetCode"/>
+  </a>
   <img align="right" src="https://komarev.com/ghpvc/?username=thetoriqul&label=Profile%20views&color=0e75b6&style=flat" alt="thetoriqul" />
 </div>
+</br>
 </br>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there%2C+I%E2%80%99m+Toriqul+%F0%9F%91%8B;DevOps+%26+Cloud+Solutions+Specialist;Crafting+Scalable+Cloud+Infrastructures" alt="Typing SVG" />
@@ -273,24 +277,25 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
 </div>
 <!-- BLOG-POST-LIST:END -->
 
-## 📈 GitHub Analytics
-
+## 📊 GitHub & LeetCode Stats
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=thetoriqul&theme=vue-dark&row=1&margin-w=15&margin-h=15&count_private=true&include_all_commits=true" alt="TheToriqul GitHub Trophies" />
 </p>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
+  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thetoriqul&theme=tokyonight"/>
+  <a href="https://leetcode.com/TheToriqul">
+    <img height="155em" src="https://leetcard.jacoblin.cool/TheToriqul?theme=dark&font=JetBrains%20Mono&border=true&rad=8&ext=heatmap&animation=true"/>
+  </a>
+</div>
+
+<div align="center" style="margin: 20px 0;">
   <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thetoriqul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200"/>
   <img height="155em" loading="lazy" src="https://github-readme-streak-stats.herokuapp.com?user=thetoriqul&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheToriqul&theme=tokyonight"/>
-</div>
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thetoriqul&theme=tokyonight&utcOffset=8"/>
-  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thetoriqul&theme=tokyonight"/>
 </div>
 
 ---
