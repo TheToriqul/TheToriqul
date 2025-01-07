@@ -235,11 +235,26 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
   <table>
     <tr>
       <td align="center" width="50%">
+        <h3>Automating Your LeetCode Journey: Building an Enterprise-Grade LeetCode to GitHub Sync System</h3>
+        <p align="justify">IntroductionAs software engineers, we spend countless hours solving LeetCode problems to sharpen our algorithmic skills and prepare for technical inte...</p>
+        <p>
+          <img src="https://img.shields.io/badge/Published-Jan_2025-00C853?style=flat&logo=medium"/>
+          <img src="https://img.shields.io/badge/Read_Time-10_min-2F81F7?style=flat"/>
+        </p>
+        <p style="min-height: 40px">
+          <img src="https://img.shields.io/badge/Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        </p>
+        <a href="https://medium.com/@TheToriqul/automating-your-leetcode-journey-building-an-enterprise-grade-leetcode-to-github-sync-system-1f535ad95c6d">
+          <img src="https://img.shields.io/badge/Read_Article-2F81F7?style=for-the-badge&logo=medium"/>
+        </a>
+      </td>
+      <td align="center" width="50%">
         <h3>A Complete Guide to Production-Grade Kubernetes Autoscaling</h3>
         <p align="justify">IntroductionHave you ever wondered how large-scale applications handle varying workloads efficiently? The secret lies in automatic scaling, and Kubern...</p>
         <p>
           <img src="https://img.shields.io/badge/Published-Dec_2024-00C853?style=flat&logo=medium"/>
-          <img src="https://img.shields.io/badge/Read_Time-10_min-2F81F7?style=flat"/>
+          <img src="https://img.shields.io/badge/Read_Time-8_min-2F81F7?style=flat"/>
         </p>
         <p style="min-height: 40px">
           <img src="https://img.shields.io/badge/Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
@@ -247,22 +262,6 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
           <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
         </p>
         <a href="https://medium.com/@TheToriqul/a-complete-guide-to-production-grade-kubernetes-autoscaling-1c26d95995e7">
-          <img src="https://img.shields.io/badge/Read_Article-2F81F7?style=for-the-badge&logo=medium"/>
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <h3>Mastering Multi-Container Applications: A Journey with Docker Compose, Flask, and Redis</h3>
-        <p align="justify">A comprehensive guide to creating production-ready containerized applications using Docker Compose, Flask, and RedisIntroductionIn the rapidly evolvin...</p>
-        <p>
-          <img src="https://img.shields.io/badge/Published-Dec_2024-00C853?style=flat&logo=medium"/>
-          <img src="https://img.shields.io/badge/Read_Time-8_min-2F81F7?style=flat"/>
-        </p>
-        <p style="min-height: 40px">
-          <img src="https://img.shields.io/badge/DevOps-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Microservices-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-        </p>
-        <a href="https://medium.com/@TheToriqul/mastering-multi-container-applications-a-journey-with-docker-compose-flask-and-redis-139f68c8b25b">
           <img src="https://img.shields.io/badge/Read_Article-2F81F7?style=for-the-badge&logo=medium"/>
         </a>
       </td>
