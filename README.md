@@ -2,7 +2,7 @@
   <a href="https://leetcode.com/TheToriqul">
     <img align="left" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FTheToriqul&logo=leetcode&logoColor=yellow" alt="LeetCode"/>
   </a>
-  <img align="right" src="https://komarev.com/ghpvc/?username=thetoriqul&label=Profile%20views&color=0e75b6&style=flat" alt="thetoriqul" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=TheToriqul&label=Profile%20views&color=0e75b6&style=flat" alt="TheToriqul" />
 </div>
 </br>
 </br>
@@ -15,10 +15,10 @@
 Welcome to my GitHub profile! I specialize in transforming complex infrastructure challenges into elegant, automated solutions. With a passion for cloud-native architecture and infrastructure automation, I focus on building resilient systems that drive innovation and operational excellence. My commitment lies in crafting scalable solutions that empower organizations to achieve their digital transformation goals.
 </h3>
 
-  <a href="https://linkedin.com/in/thetoriqul">
+  <a href="https://linkedin.com/in/TheToriqul">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://thetoriqul.com">
+  <a href="https://TheToriqul.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=about.me" alt="Portfolio"/>
   </a>
   <a href="mailto:toriqul.int@gmail.com">
@@ -165,7 +165,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
         <br/>
         <sup>Expected Completion: Q1 2025</sup>
         <br/>
-        <a href="https://www.credly.com/users/thetoriqul">
+        <a href="https://www.credly.com/users/TheToriqul">
           <img src="https://img.shields.io/badge/Verify-0077B5?style=flat&logo=checkmarx&logoColor=white"/>
         </a>
       </td>
@@ -174,7 +174,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
         <br/>
         <sup>Expected Completion: Q3 2025</sup>
         <br/>
-        <a href="https://www.credly.com/users/thetoriqul">
+        <a href="https://www.credly.com/users/TheToriqul">
           <img src="https://img.shields.io/badge/Verify-0077B5?style=flat&logo=checkmarx&logoColor=white"/>
         </a>
       </td>
@@ -183,7 +183,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
         <br/>
         <sup>Expected Completion: Q4 2025</sup>
         <br/>
-        <a href="https://www.credly.com/users/thetoriqul">
+        <a href="https://www.credly.com/users/TheToriqul">
           <img src="https://img.shields.io/badge/Verify-0077B5?style=flat&logo=checkmarx&logoColor=white"/>
         </a>
       </td>
@@ -278,23 +278,23 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
 
 ## 📊 GitHub & LeetCode Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thetoriqul&theme=vue-dark&row=1&margin-w=15&margin-h=15&count_private=true&include_all_commits=true" alt="TheToriqul GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TheToriqul&theme=vue-dark&row=1&margin-w=15&margin-h=15&count_private=true&include_all_commits=true" alt="TheToriqul GitHub Trophies" />
 </p>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
-  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thetoriqul&theme=tokyonight"/>
+<div align="center">
+  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheToriqul&theme=tokyonight" alt="TheToriqul's Most Used Languages" />
   <a href="https://leetcode.com/TheToriqul">
-    <img height="155em" src="https://leetcard.jacoblin.cool/TheToriqul?theme=dark&font=JetBrains%20Mono&border=true&rad=8&ext=heatmap&animation=true"/>
+    <img height="155em" src="https://leetcard.jacoblin.cool/TheToriqul?theme=dark&font=JetBrains%20Mono&border=true&rad=8&ext=heatmap&animation=true" alt="TheToriqul's LeetCode Stats" />
   </a>
 </div>
 
 <div align="center" style="margin: 20px 0;">
-  <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thetoriqul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200"/>
-  <img height="155em" loading="lazy" src="https://github-readme-streak-stats.herokuapp.com?user=thetoriqul&theme=tokyonight&hide_border=true"/>
+  <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TheToriqul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200" alt="TheToriqul's GitHub Stats"/>
+  <img height="155em" loading="lazy" src="https://github-readme-streak-stats.herokuapp.com?user=TheToriqul&theme=tokyonight&hide_border=true" alt="TheToriqul's GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheToriqul&theme=tokyonight"/>
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheToriqul&theme=tokyonight" alt="TheToriqul's GitHub Profile Summary"/>
 </div>
 
 ---
@@ -303,10 +303,10 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&random=false&width=835&lines=Thanks+for+visiting++my+Github%E2%9C%8C%EF%B8%8F;Shoot+me+a+message+on+LinkenIn!;I'm+always+down+to+collaborate+%3A);Let's+📞+connect+and+learn+together!" alt="Typing SVG" />
 </h1>
 <div align="center">
-  <a href="https://linkedin.com/in/thetoriqul">
+  <a href="https://linkedin.com/in/TheToriqul">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://thetoriqul.com">
+  <a href="https://TheToriqul.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=about.me" alt="Portfolio"/>
   </a>
   <a href="mailto:toriqul.int@gmail.com">
