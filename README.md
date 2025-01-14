@@ -235,11 +235,26 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
   <table>
     <tr>
       <td align="center" width="50%">
+        <h3>Mastering Kubernetes Storage: A Deep Dive into Persistent Volumes and Claims</h3>
+        <p align="justify">Storage management in Kubernetes presents unique challenges for DevOps engineers and platform architects. While containers excel at running stateless ...</p>
+        <p>
+          <img src="https://img.shields.io/badge/Published-Jan_2025-00C853?style=flat&logo=medium"/>
+          <img src="https://img.shields.io/badge/Read_Time-10_min-2F81F7?style=flat"/>
+        </p>
+        <p style="min-height: 40px">
+          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+          <img src="https://img.shields.io/badge/DevOps-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+        </p>
+        <a href="https://medium.com/@TheToriqul/mastering-kubernetes-storage-a-deep-dive-into-persistent-volumes-and-claims-9c19348d947e">
+          <img src="https://img.shields.io/badge/Read_Article-2F81F7?style=for-the-badge&logo=medium"/>
+        </a>
+      </td>
+      <td align="center" width="50%">
         <h3>Managing Sensitive Data in Kubernetes: A Comprehensive Guide to K8s Secrets</h3>
         <p align="justify">A practical guide to implementing and managing Kubernetes Secrets with production-ready patternsIntroductionIn modern cloud-native applications move t...</p>
         <p>
           <img src="https://img.shields.io/badge/Published-Jan_2025-00C853?style=flat&logo=medium"/>
-          <img src="https://img.shields.io/badge/Read_Time-10_min-2F81F7?style=flat"/>
+          <img src="https://img.shields.io/badge/Read_Time-8_min-2F81F7?style=flat"/>
         </p>
         <p style="min-height: 40px">
           <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=shieldsdotio&logoColor=white"/>
@@ -247,21 +262,6 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
           <img src="https://img.shields.io/badge/DevOps-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
         </p>
         <a href="https://medium.com/@TheToriqul/managing-sensitive-data-in-kubernetes-a-comprehensive-guide-to-k8s-secrets-3e0bdae9e705">
-          <img src="https://img.shields.io/badge/Read_Article-2F81F7?style=for-the-badge&logo=medium"/>
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <h3>Automating Your LeetCode Journey: Building an Enterprise-Grade LeetCode to GitHub Sync System</h3>
-        <p align="justify">IntroductionAs software engineers, we spend countless hours solving LeetCode problems to sharpen our algorithmic skills and prepare for technical inte...</p>
-        <p>
-          <img src="https://img.shields.io/badge/Published-Jan_2025-00C853?style=flat&logo=medium"/>
-          <img src="https://img.shields.io/badge/Read_Time-8_min-2F81F7?style=flat"/>
-        </p>
-        <p style="min-height: 40px">
-          <img src="https://img.shields.io/badge/Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        </p>
-        <a href="https://medium.com/@TheToriqul/automating-your-leetcode-journey-building-an-enterprise-grade-leetcode-to-github-sync-system-1f535ad95c6d">
           <img src="https://img.shields.io/badge/Read_Article-2F81F7?style=for-the-badge&logo=medium"/>
         </a>
       </td>
