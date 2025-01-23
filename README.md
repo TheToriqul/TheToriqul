@@ -290,7 +290,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
 
 <div align="center" style="margin: 20px 0;">
   <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TheToriqul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200" alt="TheToriqul's GitHub Stats"/>
-  <img height="155em" loading="lazy" src="https://github-readme-streak-stats.herokuapp.com?user=TheToriqul&theme=tokyonight&hide_border=true" alt="TheToriqul's GitHub Streak"/>
+  <img height="155em" loading="lazy" src="https://streak-stats.vercel.app/api?user=TheToriqul&theme=tokyonight&hide_border=true" alt="TheToriqul's GitHub Streak"/>
 </div>
 
 <div align="center">
