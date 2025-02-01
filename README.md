@@ -282,9 +282,11 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
 </p>
 
 <div align="center">
-  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheToriqul&theme=tokyonight" alt="TheToriqul's Most Used Languages" />
+  <a href="https://github.com/TheToriqul">
+    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheToriqul&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800&hide=html,css&custom_title=Top%20Tech%20Stack" alt="TheToriqul's Top Tech Stack"/>
+  </a>
   <a href="https://leetcode.com/TheToriqul">
-    <img height="155em" src="https://leetcard.jacoblin.cool/TheToriqul?theme=dark&font=JetBrains%20Mono&border=true&rad=8&ext=heatmap&animation=true" alt="TheToriqul's LeetCode Stats" />
+    <img height="155em" src="https://leetcard.jacoblin.cool/TheToriqul?theme=dark&font=JetBrains%20Mono&border=true&rad=8&ext=heatmap&animation=true" alt="TheToriqul's LeetCode Stats"/>
   </a>
 </div>
 
