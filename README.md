@@ -62,7 +62,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
         <h3>🎓 Professional Development</h3>
         <img width="100%" src="https://img.shields.io/badge/AWS-Solutions_Architect_Accociate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
         <br/>
-        <sup><strong>Expected Completion:</strong> Q1 2025</sup>
+        <sup><strong>Expected Completion:</strong> Q4 2025</sup>
         <br/><br/>
         <img width="100%" src="https://img.shields.io/badge/BSc-Computer_Science_(Cloud_Computing)-2F81F7?style=for-the-badge&logo=googlecloud&logoColor=white"/>
         <br/>
@@ -163,7 +163,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
       <td align="center" width="33%">
         <img width="100%" src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
         <br/>
-        <sup>Expected Completion: Q1 2025</sup>
+        <sup>Expected Completion: Q4 2025</sup>
         <br/>
         <a href="https://www.credly.com/users/TheToriqul">
           <img src="https://img.shields.io/badge/Verify-0077B5?style=flat&logo=checkmarx&logoColor=white"/>
@@ -172,7 +172,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
       <td align="center" width="33%">
         <img width="100%" src="https://img.shields.io/badge/CKA-Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
         <br/>
-        <sup>Expected Completion: Q3 2025</sup>
+        <sup>Expected Completion: Q2 2026</sup>
         <br/>
         <a href="https://www.credly.com/users/TheToriqul">
           <img src="https://img.shields.io/badge/Verify-0077B5?style=flat&logo=checkmarx&logoColor=white"/>
@@ -181,7 +181,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
       <td align="center" width="33%">
         <img width="100%" src="https://img.shields.io/badge/Terraform-Associate_Certified-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
         <br/>
-        <sup>Expected Completion: Q4 2025</sup>
+        <sup>Expected Completion: Q1 2026</sup>
         <br/>
         <a href="https://www.credly.com/users/TheToriqul">
           <img src="https://img.shields.io/badge/Verify-0077B5?style=flat&logo=checkmarx&logoColor=white"/>
