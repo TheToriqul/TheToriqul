@@ -163,7 +163,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
       <td align="center" width="33%">
         <img width="100%" src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
         <br/>
-        <sup>Expected Completion: Q2 2025</sup>
+        <sup>Expected Completion: Q2 2026</sup>
         <br/>
         <a href="https://www.credly.com/users/TheToriqul">
           <img src="https://img.shields.io/badge/Verify-0077B5?style=flat&logo=checkmarx&logoColor=white"/>
@@ -172,7 +172,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
       <td align="center" width="33%">
         <img width="100%" src="https://img.shields.io/badge/CKA-Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
         <br/>
-        <sup>Expected Completion: Q4 2025</sup>
+        <sup>Expected Completion: Q4 2026</sup>
         <br/>
         <a href="https://www.credly.com/users/TheToriqul">
           <img src="https://img.shields.io/badge/Verify-0077B5?style=flat&logo=checkmarx&logoColor=white"/>
@@ -181,7 +181,7 @@ Welcome to my GitHub profile! I specialize in transforming complex infrastructur
       <td align="center" width="33%">
         <img width="100%" src="https://img.shields.io/badge/Terraform-Associate_Certified-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
         <br/>
-        <sup>Expected Completion: Q1 2026</sup>
+        <sup>Expected Completion: Q1 2027</sup>
         <br/>
         <a href="https://www.credly.com/users/TheToriqul">
           <img src="https://img.shields.io/badge/Verify-0077B5?style=flat&logo=checkmarx&logoColor=white"/>
